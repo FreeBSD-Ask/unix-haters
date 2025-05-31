@@ -1,5 +1,7 @@
 # 参考文献：正当你以为已经脱离困境时
 
+![](../.gitbook/assets/cankao.png)
+
 * Allman, Eric. “Mail Systems and Addressing in 4.2bsd.” January 1983, USENIX.
 * Allman, Eric, and Miriam Amos. “Sendmail Revisited.” Summer 1985, USENIX.
 * Costales, Bryan, Eric Allman, and Neil Rickert. *sendmail*. O’Reilly & Associates, 1993.
