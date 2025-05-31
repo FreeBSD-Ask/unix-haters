@@ -1,5 +1,7 @@
 # “更坏即是更好”的崛起（作者：Richard P. Gabrie）
 
+![](../.gitbook/assets/rise.png)
+
 Lisp 如今的关键问题，源于两种对立的软件设计哲学之间的紧张关系。这两种哲学被称为“正确之道”（The Right Thing）和“宁拙勿巧”（Worse Is Better）。[^1]
 
 我，以及几乎所有 Common Lisp 和 CLOS 的设计者，都深受 MIT/Stanford 式设计风格的影响。这种风格的精髓可用一句话来概括：追求“正确之道”。对这样的设计者来说，确保以下所有特性是极为重要的：
