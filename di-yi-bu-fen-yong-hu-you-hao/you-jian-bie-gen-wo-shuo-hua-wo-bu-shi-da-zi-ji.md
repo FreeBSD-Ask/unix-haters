@@ -568,7 +568,78 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 
 你可以分辨出住在 Unix 地狱中间圈层的人和那些在较低层的人。中间层的人知道 >From 导致的问题，但认为 uuencode 是避免问题的办法。Uuencode 将文件编码为只使用 7 位字符的格式，而不是 Unix 邮件系统或网络系统可能难以发送的 8 位字符格式。程序 uudecode 可以解码 uuencoded 文件，生成原始文件的副本。uuencoded 文件据说比纯文本更安全发送；例如，不能对这类文件发生 “>From” 的扭曲。不幸的是，Unix 邮件系统还有其他方法折磨用户：
 
+> 日期：1992 年 8 月 4 日 星期二 16:07:47 HKT
+> 
+> 发件人：“Olin G. Shivers” [shivers@csd.hku.hk](mailto:shivers@csd.hku.hk)
+> 
+> 收件人：UNIX-HATERS
+> 
+> 主题：需要你们的帮助。
+>
+> 任何认为 uuencode 可以保护邮件内容的人都活在梦里。uuencode 根本没用。这个蠢程序在编码中使用了 ASCII 空格。一连串的空字节会被映射为一连串的空格。而许多 Unix 邮件程序“体贴地”把邮件行末的空格删掉。这样你辛辛苦苦编码好的数据就完蛋了。
+>
+> 嗯，这就是 Unix，你还指望什么？
+>
+> 当然，你也可以去一点一点地翻那些数据，找出长度不对的行，然后重新补上空格——这样（几乎肯定？）能修好它。反正你还有别的事做吗？除了收拾多个脑残 Unix 所谓“工具”的互动烂摊子？
+>
+> 试着去找一份 uuencoded 数据的他妈的规范文件吧。man 手册？哈，别做梦了。去读源码吧——那才是“规范”。
+>
+> 我特别欣赏 uuencode 坚持要帮你创建一个文件，而不是作为 stdio 滤波器工作的方式。本可以把数据通过管道输送给 tar 来处理——tar 懂得如何创建文件、设置权限、处理目录之类的事情——但我们却非要把这些功能半吊子地直接塞进 uuencode，无论你需不需要，它都在那里。
+>
+> 而且我真的、真的很喜欢 uuencode 默认创建的是世界可写的文件。
 
+也许这是 Unix 的反击，但这个确切的 bug 就在 1993 年 4 月，在编辑本书期间打中了本书的一位编辑。有人给他寄了一份 uuencode 编码的会议论文的 PostScript 版本，结果竟然有整整 12 行需要手动修补，才能在 uudecode 重建原始文件之前把行尾的空格补回来。
+
+
+### 报错信息
+
+
+Unix 邮件系统知道自己并不完美，而且它也愿意告诉你这一点。但它并不总是以直观的方式告诉你。以下是人们经常看到的一些错误信息的简短列表：
+
+```sh
+550 chiarell... User unknown: Not a typewriter
+550 <bogus@ASC.SLB.COM>...
+User unknown: Address already in use
+550 zhang@uni-dortmund.de...
+User unknown: Not a bicycle
+553 abingdon I refuse to talk to myself
+554 “| /usr/new/lib/mh/slocal -user $USER”...
+unknown mailer error 1
+554 “| filter -v”... unknown mailer error 1
+554 Too many recipients for no message body
+```
+
+“Not a typewriter”（不是打字机）是 sendmail 最常见的报错信息。我们猜，“not a bicycle”（不是自行车）大概是某个系统管理员的幽默尝试。而“Too many recipients for no message body”（没有正文却有太多收件人）是 sendmail 在充当老大哥的角色。它自认为比无产阶级群众更懂得如何处理邮件，因此它拒绝发送仅包含主题行、没有正文的邮件。
+
+结论显而易见：你能收到邮件，或者你发出的邮件能成功送达，都是幸运的事情。那些认为邮件系统本来就很复杂、难以正确实现的 Unix 狂热者是错误的。邮件系统曾经运作良好，并且非常可靠。直到 Unix 的出现，在“进步”的名义下破坏了一切。
+
+> 日期：1991 年 4 月 9 日 星期二 22:34:19 -0700
+> 
+> 发件人：Alan Borning [borning@cs.washington.edu](mailto:borning@cs.washington.edu)
+> 
+> 收件人：UNIX-HATERS
+> 
+> 主题：休假程序
+>
+> 我在前前周去参加了一个会议，决定试着做一回 Unix 呆瓜，设置 “休假” 自动回复消息。我本该早点知道会出事的。
+>
+> 休假程序有一个典型的 Unix 式接口（要创建一个带有晦涩咒语的 `.forward` 文件，一个带有回复信息的 `.vacation.msg` 文件，等等）。它还有一个 `-l` 初始化选项，我没能让它正常工作，据说这个选项是用来限制每个发件人每周只能收到一封休假回复的。我决定测试一下它的功能，给自己发一封邮件，想着他们肯定考虑到了这种情况，不会让 vacation 消息无限循环发送。发出测试邮件，快速瞄了一眼邮箱，哎呀妈呀，已经 59 封消息了。好吧。看起来它“确实”能用。
+
+然而，这个程序真正令人恼火的地方在于它的标准 vacation 消息格式。来自手册页的描述如下：
+
+
+> 发件人：[eric@ucbmonet.berkeley.edu](mailto:eric@ucbmonet.berkeley.edu)（Eric Allman）
+> 
+> 主题：我正在休假
+> 
+> 由休假程序大发慈悲地送达
+> …
+
+这取决于一个人的神学与政治观念：信息可能是凭借某位神明的恩典，或者某位王室人物的恩典而传达的——但绝不会是凭借 Unix 的恩典。这个概念本身就是一个矛盾修饰法。
+
+## Apple 计算机在 1991 年的邮件灾难
+
+![](../.gitbook/assets/apple.png)
 
 
 
