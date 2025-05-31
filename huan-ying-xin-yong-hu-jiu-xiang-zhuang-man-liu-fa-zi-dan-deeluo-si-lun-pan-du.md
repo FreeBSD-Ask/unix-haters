@@ -617,7 +617,7 @@ Unix 并没有哲学，只有一种态度。那种态度认为，简单且半途
 
 > 日期： 1989 年 12 月 24 日 星期日 19:01:36 EST
 > 
-> 来自： David Chapman \<zvona\@ai..mit.edu>
+> 来自： David Chapman \< zvona\@ai..mit.edu >
 > 
 > 收件人： UNIX-HATERS
 > 
