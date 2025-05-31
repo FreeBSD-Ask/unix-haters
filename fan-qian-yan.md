@@ -1,2 +1,2 @@
-# 反前言
+# 反前言（作者： Dennis Ritchie）
 
