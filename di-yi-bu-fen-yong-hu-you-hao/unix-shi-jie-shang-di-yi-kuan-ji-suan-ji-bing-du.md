@@ -55,9 +55,9 @@ Multics 项目最终实现了它所有的目标。但在 1969 年，由于项目
 
 正如一位 DEC 员工所说：
 
->From: CLOSET::E::PETER 29-SEP-1989 09:43:26.63
+>From: CLOSET:: E:: PETER 29-SEP-1989 09:43:26.63
 >
->To: closet::t\_parmenter
+>To: closet:: t\_parmenter
 >
 >Subj: Unix
 >
