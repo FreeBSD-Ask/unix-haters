@@ -1,4 +1,4 @@
-# 终端错乱：可恶！又挂了
+# 终端错乱：可恶！又挂了！
 
 ![](../.gitbook/assets/zhongduan.png)
 
