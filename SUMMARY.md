@@ -14,7 +14,7 @@
 
 ***
 
-* [反前言（作者： Dennis Ritchie）](fan-qian-yan.md)
+* [反序言（作者： Dennis Ritchie）](fan-xu-yan.md)
 
 ## 第一部分：用户友好？
 
