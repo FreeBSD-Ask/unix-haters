@@ -115,7 +115,7 @@ sendmail 是那种聪明的程序，功能多样，具体执行什么任务取�
 > 
 > 发件人：Robert Seastrom [rs@fiesta.intercon.com](mailto:rs@fiesta.intercon.com)
 > 
-> 收件人：UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 
 > 主题：智能？友好？不，我才不这么认为……
 >
@@ -238,7 +238,7 @@ Sue\@bar!B%baz!foo.uucp。解析这些混乱内容，并尝试将邮件送到合
 > 
 > 来自： Judy Anderson [yduJ@stony-brook.scrc.symbolics.com](mailto:yduJ@stony-brook.scrc.symbolics.com)
 > 
-> 收件人： UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 
 > 主题： 今日邮件程序错误。我最近在自己的邮件程序错误上玩得很开心。似乎我收到来自 “.at” 域的邮件。那么当我尝试回复时，Unix 邮件程序对这个地址做了什么？它把 “at” 变成了 “@”，然后抱怨没有这个主机！或者说地址格式无效？我忘了，失败的方法太多了。
 
@@ -313,7 +313,7 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 > 
 > 来自： Steve Strassmann [straz@media-lab.mit.edu](mailto:straz@media-lab.mit.edu)
 > 
-> 收件人： UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 
 > 主题： 疼痛、死亡与毁容
 >
@@ -339,11 +339,11 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 > 
 > 来自： Steve Strassmann [straz@media-lab.mit.edu](mailto:straz@media-lab.mit.edu)
 > 
-> 收件人： UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 
 > 主题： Unix 与解析
 >
-> 你们中有些人可能会问，见鬼，为什么这个 straz 家伙给 UNIX-HATERS 发这么多邮件？他每天甚至一天两次怎么总能想出新东西？为什么他这么充满愤怒？对这些问题的简单答案是：我用 Unix。
+> 你们中有些人可能会问，见鬼，为什么这个 straz 家伙给Unix 痛恨者发这么多邮件？他每天甚至一天两次怎么总能想出新东西？为什么他这么充满愤怒？对这些问题的简单答案是：我用 Unix。
 >
 > 就拿今天来说。一个可怜无辜的用户问我，为什么她在过去的 48 小时突然收不到邮件了。与大多数用户不同，她有主机账号，但邮件是通过我的工作站收发的。
 >
@@ -387,7 +387,7 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 > 
 > 收件人： SUN-BUGS
 > 
-> 抄送： UNIX-HATERS
+> 抄送：Unix 痛恨者
 > 
 > 主题： 我有邮件吗？
 > 
@@ -412,7 +412,7 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 > 
 > 来自： Alan Bawden [alan@ai.ai.mit.edu](mailto:alan@ai.ai.mit.edu)
 > 
-> 收件人： UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 
 > 主题： 我有邮件吗？
 > 
@@ -472,7 +472,7 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 > 
 > 来自： Alan Bawden [alan@ai.mit.edu](mailto:alan@ai.mit.edu)
 > 
-> 收件人： UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 
 > 主题： 令人沮丧
 >
@@ -488,7 +488,7 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 
 需要注意的是，Berkeley Mail 的这个特定问题已经得到修复；现在 Mail 会正确遵循邮件中存在的“Reply-To:” 头字段。另一方面，认为 Unix 实现比标准本身更准确的态度至今仍在延续，这种现象普遍存在。互联网工程任务组（IETF）已经着手重写互联网的 RFC “标准”，以使它们符合实现这些标准的 Unix 程序。
 
-[^4]: 这与 UNIX-HATERS 几乎没有关系。
+[^4]: 这与Unix 痛恨者几乎没有关系。
 
 ### `>` 来自 Unix 的爱
 
@@ -502,7 +502,7 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 > 
 > 来自： [pgs@xx.lcs.mit.edu](mailto:pgs@xx.lcs.mit.edu)
 > 
-> 收件人： UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 
 > 主题： 邮件程序的毛病
 >
@@ -543,7 +543,7 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 > 
 > 发件人：Jerry Leichter [leichter@lrw.com](mailto:leichter@lrw.com)
 > 
-> 收件人：UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 
 > 主题：那个神奇的 “>From”
 >
@@ -572,7 +572,7 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 > 
 > 发件人：“Olin G. Shivers” [shivers@csd.hku.hk](mailto:shivers@csd.hku.hk)
 > 
-> 收件人：UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 
 > 主题：需要你们的帮助。
 >
@@ -617,7 +617,7 @@ unknown mailer error 1
 > 
 > 发件人：Alan Borning [borning@cs.washington.edu](mailto:borning@cs.washington.edu)
 > 
-> 收件人：UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 
 > 主题：休假程序
 >
@@ -734,7 +734,7 @@ Allman 接着写道：“邮件系统必须明确指出某个邮件是否已经�
 > [fair@apple.com](mailto:fair@apple.com)
 
 
-[^6]: Erik Fair 慷慨地允许我们转载这条出现在 TCP-IP、UNICODE 和 RISKS 邮件列表上的消息，尽管他补充道：“我并不在 UNIX-HATERS 邮件列表中。我个人从未在那里发过任何东西。我不讨厌 Unix；我只是讨厌 USL、Sun、惠普以及所有那些把 Unix 搞得一团糟的厂商。”
+[^6]: Erik Fair 慷慨地允许我们转载这条出现在 TCP-IP、UNICODE 和 RISKS 邮件列表上的消息，尽管他补充道：“我并不在Unix 痛恨者邮件列表中。我个人从未在那里发过任何东西。我不讨厌 Unix；我只是讨厌 USL、Sun、惠普以及所有那些把 Unix 搞得一团糟的厂商。”
 
 [^7]: Erik 将这些机器简单地称为“互联网主机”，但你可以打赌，其中大多数都运行着 Unix。
 
