@@ -3,8 +3,7 @@
 * [Unix 痛恨者手册中文版](README.md)
 * [前言](qian-yan.md)
 * [序言](xu-yan.md)
-* [反序言（作者： Dennis Ritchie）](fan-xu-yan.md)
-  
+
 ## 事情还没最糟，接下来只会更糟
 
 * [我们是谁](shi-qing-hai-mei-zui-zao-jie-xia-lai-zhi-hui-geng-zao/wo-men-shi-shui.md)
@@ -13,10 +12,15 @@
 * [排版惯例](shi-qing-hai-mei-zui-zao-jie-xia-lai-zhi-hui-geng-zao/pai-ban-guan-li.md)
 * [Unix 痛恨者手册免责声明](shi-qing-hai-mei-zui-zao-jie-xia-lai-zhi-hui-geng-zao/unix-tong-hen-zhe-shou-ce-mian-ze-sheng-ming.md)
 
+***
+
+* [反序言（作者： Dennis Ritchie）](fan-xu-yan.md)
+  
+
 ## 第一部分：用户友好？
 
 * [Unix：世界上第一款计算机病毒](di-yi-bu-fen-yong-hu-you-hao/unix-shi-jie-shang-di-yi-kuan-ji-suan-ji-bing-du.md)
-* [欢迎，新用户！ 就像装满六发子弹的俄罗斯轮盘赌](di-yi-bu-fen-yong-hu-you-hao/huan-ying-xin-yong-hu-jiu-xiang-zhuang-man-liu-fa-zi-dan-deeluo-si-lun-pan-du.md)
+* [欢迎，新用户！就像装满六发子弹的俄罗斯轮盘赌](di-yi-bu-fen-yong-hu-you-hao/huan-ying-xin-yong-hu-jiu-xiang-zhuang-man-liu-fa-zi-dan-deeluo-si-lun-pan-du.md)
 * [文档？什么文档？](di-yi-bu-fen-yong-hu-you-hao/wen-dang-shen-me-wen-dang.md)
 * [邮件：别跟我说话，我不是打字机](di-yi-bu-fen-yong-hu-you-hao/you-jian-bie-gen-wo-shuo-hua-wo-bu-shi-da-zi-ji.md)
 * [无聊的网络：我发帖，故我在](di-yi-bu-fen-yong-hu-you-hao/wu-liao-de-wang-luo-wo-fa-tie-gu-wo-zai.md)
