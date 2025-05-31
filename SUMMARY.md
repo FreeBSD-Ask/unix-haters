@@ -4,7 +4,7 @@
 * [前言](qian-yan.md)
 * [序言](xu-yan.md)
 
-## 事情还没最糟，接下来只会更糟
+## 事情还没到最糟，接下来只会更糟
 
 * [我们是谁](shi-qing-hai-mei-zui-zao-jie-xia-lai-zhi-hui-geng-zao/wo-men-shi-shui.md)
 * [Unix 痛恨者手册往事](shi-qing-hai-mei-zui-zao-jie-xia-lai-zhi-hui-geng-zao/unix-tong-hen-zhe-shou-ce-wang-shi.md)
