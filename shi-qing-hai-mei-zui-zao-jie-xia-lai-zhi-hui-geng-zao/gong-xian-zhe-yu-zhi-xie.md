@@ -1,24 +1,24 @@
 # 贡献者与致谢
 
-为了撰写这本书，编辑们整理了 Unix 痛恨者邮件列表六年来的档案。这些投稿者在每条收录的邮件中都有提及，并且在本书末尾设有索引。在这些邮件的基础上，Unix 痛恨者的专家们撰写了章节，出于揭露真相的使命感贡献了自己的力量。我们是：
+为了撰写这本书，编辑们整理了 Unix 痛恨者邮件列表六年来的存档。这些投稿者在每条收录的邮件中都有提及，并且在本书末尾设有索引。在这些邮件的基础上，Unix 痛恨者的专家们撰写了章节，出于揭露真相的使命感贡献了自己的力量。我们是：
 
 **Simson Garfinkel**，一名记者兼计算机科学研究员。Simson 获得了麻省理工学院的三个本科学位和哥伦比亚大学的新闻学硕士学位。他本应在研究生院攻读博士学位，但因为这本书的出现，他觉得写书更有趣。Simson 还是《Practical Unix Security》（O’Reilly and Associates，1991 年）和《NeXTSTEP Programming》（Springer-Verlag，1993 年）的合著者。除了担任编辑工作外，Simson 还撰写了关于文档、Unix 文件系统、网络和安全的章节。
 
-**Daniel Weise**，微软研究实验室的研究员。Daniel 获得了麻省理工学院人工智能实验室的博士和硕士学位，曾是斯坦福大学电气工程系的助理教授，后来决定进入 DOS 和 Windows 的真实世界。在安逸的学术职位上，Daniel 有时间参与本项目。离开斯坦福，来到多雨的华盛顿湖畔后，一个挑战性的工作和一个活泼好动的婴儿男孩成为了他的重点。除了初期编辑，Daniel 还撰写了《欢迎，新用户》、《邮件》和《终端错乱》中的大量内容。
+**Daniel Weise**，微软研究实验室的研究员。Daniel 获得了麻省理工学院人工智能实验室的博士和硕士学位，曾是斯坦福大学电气工程系的助理教授，后来决定进入 DOS 和 Windows 的真实世界。在安逸的学术职位上，Daniel 有时间参与本项目。离开斯坦福，来到多雨的华盛顿湖畔后，有挑战性的工作和活泼好动的婴儿男孩成为了他的重点。除了初期编辑，Daniel 还撰写了《欢迎，新用户》、《邮件》和《终端错乱》中的大量内容。
 
 **Steven Strassmann**，苹果公司的高级科学家。Steven 拥有麻省理工学院媒体实验室的博士学位，是一位教会计算机良好礼仪的专家。他于 1992 年在 Unix 痛恨者邮件列表上发起了这本书的倡议。目前他正在苹果公司从事 Dylan 开发环境的工作。
 
 **John Klossner**，常驻剑桥的漫画家，他的作品散布在美国东北部大部分地区。业余时间，John 喜欢乘坐公共交通工具。
 
-**Donald Norman**，苹果公司的 Apple Fellow 以及加州大学圣地亚哥分校的名誉教授。他著有 12 本以上的书籍，包括《The Design of Everyday Things》。
+**Donald Norman**，苹果公司的苹果院士以及加州大学圣地亚哥分校的名誉教授。他著有 12 本以上的书籍，包括《The Design of Everyday Things》。
 
 **Dennis Ritchie**，AT\&T 贝尔实验室计算技术研究部门负责人。他和 Ken Thompson 被许多人视为 Unix 之父。出于公平考虑，我们请 Dennis 撰写了本书的反序言。
 
-**Scott Burson**，Zeta C 的作者，这是 Lisp 机器上的第一个 C 编译器。如今，他作为硅谷的顾问从事 C++ 编程。Scott 撰写了大部分关于 C++ 的章节。
+**Scott Burson**，Zeta C 的作者，这是 Lisp 机器上的第一款 C 编译器。如今，他作为硅谷的顾问从事 C++ 编程。Scott 撰写了大部分关于 C++ 的章节。
 
-**Don Hopkins**，资深用户界面设计师和图形程序员。Don 在马里兰大学获得计算机科学学士学位，同时在人体计算机交互实验室任职研究员。曾在 UniPress Software、Sun Microsystems、Turing Institute 和卡内基梅隆大学工作。Don 曾将 SimCity 移植到 NeWS 和 DUX Software 的 X11 上。他目前在 Kaleida 工作。Don 撰写了关于 X-Windows 灾难的章节。（为了惹恼 X 狂热粉，Don 特别要求章节标题中“X”后保留连字符，且“Windows”使用复数形式。）
+**Don Hopkins**，资深用户界面设计师和图形程序员。Don 在马里兰大学获得计算机科学学士学位，同时在人体计算机交互实验室任职研究员。曾在 UniPress Software、Sun Microsystems、Turing Institute 和卡内基梅隆大学工作。Don 曾将 SimCity 移植到 NeWS 和 DUX Software 的 X11 上。他目前在 Kaleida 工作。Don 撰写了关于 X-Windows 灾难的章节（为了惹恼 X 狂热粉，Don 特别要求章节标题中“X”后保留连字符，且“Window”使用复数形式。）
 
-**Mark Lottor**，自 1984 年首次参加 Usenix 会议起就积极痛恨 Unix。Mark 曾在 TOPS-20 系统做了八年系统程序员，之后又做了几年 Unix 系统管理员。因对 Unix 感到沮丧，他现在用汇编语言编写微控制器程序，不必担心操作系统、shell、编译器或窗口系统干扰工作。Mark 撰写了系统管理的章节。
+**Mark Lottor**，自 1984 年首次参加 Usenix 会议起就积极痛恨 Unix。Mark 曾在 TOPS-20 系统做了八年系统程序员，之后又做了几年 Unix 系统管理员。因对 Unix 感到沮丧，他现在用汇编语言编写微控制器程序，不必担心受操作系统、shell、编译器或窗口系统干扰工作。Mark 撰写了系统管理的章节。
 
 **Christopher Maeda**，操作系统专家，希望在本书出版前获得卡内基梅隆大学的博士学位。Christopher 撰写了大部分关于编程的章节。
 
