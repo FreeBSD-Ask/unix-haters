@@ -1,5 +1,7 @@
 # 尾声：通过 Unix 获得的启示
 
+![](../.gitbook/assets/qishi2.png)
+
 ![](../.gitbook/assets/qishi.png)
 
 
