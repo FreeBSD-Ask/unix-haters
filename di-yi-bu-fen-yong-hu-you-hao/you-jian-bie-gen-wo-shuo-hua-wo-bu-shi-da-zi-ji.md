@@ -3,17 +3,17 @@
 ![](../.gitbook/assets/mail.png)
 
 > 没有 sendmail 就像没有性病。
-> 
+>
 > ——Ron Heiby
-> 
+>
 > 计算机新闻组 comp.newprod 前版主
 
 > 日期：1992 年 3 月 26 日 星期四 21:40:13 -0800
-> 
+>
 > 发件人：Alan Borning [borning@cs.washington.edu](mailto:borning@cs.washington.edu)
-> 
+>
 > 收件人：Unix 痛恨者
-> 
+>
 > 主题：延迟：不是打字机
 >
 > 当我试图给一个宕机的 Unix 系统上的某人发送邮件时（这并不少见），邮件程序有时会给出一个完全无法理解的错误提示，例如：
@@ -48,15 +48,15 @@
 > 前几天，我试图联系一个运行 sendmail 的站点的 postmaster。你看，每当我给他们站点的人发邮件时，收到的回复邮件的头部都会被破坏，我没办法再回复他们的回复。看起来问题可能出在他们那边——他同意吗？这是他回我的内容：
 >
 >> 日期：1991 年 5 月 13 日 星期一 21:28 EDT
->> 
+>>
 >> 发件人：silv@upton.com（Stephen J. Silver）[^1]
->>  
+>> 
 > >收件人：mit-eddie!STONYBROOK.SCRC.Symbolics.COM!CStacy@EDDIE.MIT.EDU [^2]
->> 
+>>
 >>主题：Re: mangled headers
->> 
+>>
 > >毫无疑问，是我们系统的邮件程序干的。如果你收到了，那就好。如果没收到，那你是怎么知道的？如果收到了，那又有什么问题？只是看起来不好看而已？我不是 sendmail 专家，也没有 sendmail 专家。邮件凑合能用，大多数时候都行，在我能投入的时间内，这就够好了。祝你好运。
->> 
+>>
 >> Stephen Silver
 
 编写一个可靠遵循协议的邮件系统根本没那么难。我不明白，为什么在 Unix 世界里，二十年来竟然没有人能一次性把它做好。
@@ -70,13 +70,13 @@
 ## 一段惊心动魄的历史
 
 > 日期：1993 年 10 月 12 日 星期二 10:31:48 -0400
-> 
+>
 > 发件人：[dm@hri.com](mailto:dm@hri.com)
-> 
+>
 > 收件人：Unix 痛恨者
-> 
+>
 > 主题：sendmail 简化版
-> 
+>
 >
 > 我曾参加过一个与 Unix 有关的讲座。幸运的是，除了讲者的开场白，我成功地把其他内容都压抑住了：
 >
@@ -112,11 +112,11 @@ sendmail 是那种聪明的程序，功能多样，具体执行什么任务取�
 
 
 > 日期：1994 年 2 月 6 日 星期日 14:17:32 GMT
-> 
+>
 > 发件人：Robert Seastrom [rs@fiesta.intercon.com](mailto:rs@fiesta.intercon.com)
-> 
+>
 > 收件人：Unix 痛恨者
-> 
+>
 > 主题：智能？友好？不，我才不这么认为……
 >
 > 令我懊恼的是，最近我所在站点的人们要求我让我们的邮件程序不再遵守 RFC821 标准，改为支持 8 位邮件。显然，越来越流行的 ISO/LATIN1 编码格式是 8 位的（为什么呢？我记得罗马字母表只有 26 个字符），当第 8 位被剥除时，用这种编码的邮件内容会被完全破坏。我不是说剥除高位是好事，只是那是标准，我们制定标准是有原因的，而且 ISO 那些人也不该把脑袋扎得那么深。不过你还能指望那些带给我们 OSI 的人有什么好标准呢？
@@ -128,7 +128,7 @@ sendmail 是那种聪明的程序，功能多样，具体执行什么任务取�
 > 你见过这本书吗？它的页数比《战争与和平》还多。比我的 TOPS-10 系统调用手册还厚。用 .177 口径气枪近距离射击这书，它都能挡住弹丸，弹丸甚至连书的一半都没穿透（.22 口径测试安排在下周末）。对某些在互联网上跑机器的“蠢货”来说，可能需要这么详细的讲解，这更可怕。但我扯远了。
 >
 > 然后，在实际的“问题”章节，我看到：
-> 
+>
 >> 问：Costales 这本书为什么封面是蝙蝠？
 >> 答：你想要真实答案还是有趣答案？真实答案是 Bryan Costales 收到三张图片的选择，他选了最喜欢的蝙蝠。有趣答案是，尽管 sendmail 有吓人的名声，像蝙蝠一样，它其实是个相当友好且智能的怪物。
 >
@@ -157,7 +157,7 @@ sendmail 是那种聪明的程序，功能多样，具体执行什么任务取�
 > 农民把蝙蝠当朋友，因为蝙蝠吃虫子。农民把 Sendmail 当朋友，因为它激发更多受过大学教育的人对自给农业产生兴趣。
 >
 > 我还能继续说，但我想你已经明白了。敬请期待 .22 口径穿透测试的结果！
-> 
+>
 > ——Rob
 
 
@@ -182,46 +182,46 @@ Sendmail 在每一步骤都搞砸了
 
 
 > 日期：1991 年 10 月 16 日 星期三 17:33:07 -0400
-> 
+>
 > 来自：Thomas Lawrence [thomasl@media-lab.media.mit.edu](mailto:thomasl@media-lab.media.mit.edu)
-> 
+>
 > 收件人：[msgs@media.mit.edu](mailto:msgs@media.mit.edu)
-> 
+>
 > 主题：人行道障碍
-> 
+>
 > 建筑物前人行道上的木头将被用来替换一个即将坍塌的检查井。它们将在那里放置两到三周。
 
 
 我们很容易判断这条邮件是由“Thomas Lawrence”发送的，收件对象是位于 MIT 媒体实验室的“msgs”邮件列表，邮件正文则是关于建筑外人行道上的一些日志。但对于 Unix 来说，这并不容易，它却产生了这样的结果：
 
 > 日期：1991 年 10 月 16 日 星期三 17:29:01 -0400
-> 
+>
 > 来自：Thomas Lawrence [thomasl@media-lab.media.mit.edu](mailto:thomasl@media-lab.media.mit.edu)
-> 
+>
 > 收件人： [msgs@media.mit.edu](mailto:msgs@media.mit.edu)
-> 
+>
 > 抄送： [The@media-lab.media.mit.edu](mailto:The@media-lab.media.mit.edu), [logs.obstructing.the.sidewalk.in.front.of.the.building.will.be.used.in.the@media-lab.media.mit.edu](mailto:logs.obstructing.the.sidewalk.in.front.of.the.building.will.be.used.in.the@media-lab.media.mit.edu)
-> 
+>
 > 主题：人行道障碍
 
 有时，sendmail 会把整个邮件正文（有时甚至是倒着的！）当作地址列表来解析：
 
 > 日期：1990 年 9 月 13 日 星期四 08:48:06 -0700
-> 
+>
 > 来自： [MAILER-DAEMON@Neon.Stanford.EDU](mailto:MAILER-DAEMON@Neon.Stanford.EDU)
-> 
+>
 > 备注：由 CS.Stanford.EDU 转发
-> 
+>
 > 显示收件人： \<Juan ECHAGUE 电子邮件\:jve\@lifia.imag.fr 电话:76 57 46 68 (33)>
-> 
+>
 > 显示收件人： \<PS: 我会总结兴趣等[.@Neon.Stanford.EDU](mailto:.@Neon.Stanford.EDU)>
-> 
+>
 > 显示收件人： [Juan@Neon.Stanford.EDU](mailto:Juan@Neon.Stanford.EDU)
-> 
+>
 > 显示收件人： <提前感谢@Neon.Stanford.EDU>
-> 
+>
 > 显示收件人： <关于时态逻辑。欢迎评论和参考资料[.@Neon.Stanford.EDU](mailto:.@Neon.Stanford.EDU)>
-> 
+>
 > 显示收件人： <我对 Gentzen 和自然演绎风格的公理化感兴趣@Neon.Stanford.EDU>
 
 
@@ -235,11 +235,11 @@ Sue\@bar!B%baz!foo.uucp。解析这些混乱内容，并尝试将邮件送到合
 不过，有时候 sendmail 做得过火了：
 
 > 日期：1992 年 7 月 8 日 星期三 11:01 -0400
-> 
+>
 > 来自：Judy Anderson [yduJ@stony-brook.scrc.symbolics.com](mailto:yduJ@stony-brook.scrc.symbolics.com)
-> 
+>
 > 收件人：Unix 痛恨者
-> 
+>
 > 主题：今日邮件程序错误。我最近在自己的邮件程序错误上玩得很开心。似乎我收到来自“.at”域的邮件。那么当我尝试回复时，Unix 邮件程序对这个地址做了什么？它把“at”变成了“@”，然后抱怨没有这个主机！或者说地址格式无效？我忘了，失败的方法太多了。
 
 ……或者，也许 sendmail 只是觉得 Judy 不该给奥地利发邮件。
@@ -310,11 +310,11 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 **图 1. sendmail 别名文件摘录**
 
 > 日期：1991 年 4 月 11 日 星期四 13:00:22 EDT
-> 
+>
 > 来自：Steve Strassmann [straz@media-lab.mit.edu](mailto:straz@media-lab.mit.edu)
-> 
+>
 > 收件人：Unix 痛恨者
-> 
+>
 > 主题：疼痛、死亡与毁容
 >
 > 有时候，像一种罕见的真菌，Unix 必须在恰到好处的时刻才能被欣赏。比如，你可以给一个邮件列表发送邮件。但如果此时有人正在运行 newaliases 呢？
@@ -336,11 +336,11 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 由于 Unix 在很多方面都在“说谎”，而且 sendmail 极其脆弱，当它默默删除邮件时，几乎不可能调试这个系统：
 
 > 日期：1991 年 4 月 30 日 星期二 02:11:58 EDT
-> 
+>
 > 来自：Steve Strassmann [straz@media-lab.mit.edu](mailto:straz@media-lab.mit.edu)
-> 
+>
 > 收件人：Unix 痛恨者
-> 
+>
 > 主题：Unix 与解析
 >
 > 你们中有些人可能会问，见鬼，为什么这个 straz 家伙给 Unix 痛恨者发这么多邮件？他每天甚至一天两次怎么总能想出新东西？为什么他这么充满愤怒？对这些问题的简单答案是：我用 Unix。
@@ -382,15 +382,15 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 
 
 > 日期：1988 年 10 月 6 日 星期四 22:50:53 EDT
-> 
+>
 > 来自：Alan Bawden [alan@ai.mit.edu](mailto:alan@ai.mit.edu)
-> 
+>
 > 收件人：SUN-BUGS
-> 
+>
 > 抄送：Unix 痛恨者
-> 
+>
 > 主题：我有邮件吗？
-> 
+>
 >
 > 每当我登录 Sun 计算机时，系统都会告诉我有邮件。我并不想在 Unix 上直接接收邮件，我想让我的邮件转发到“Alan\@AI”。
 >
@@ -399,9 +399,9 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 > 尽管如此，每当我登录 Sun 机，系统还是告诉我有邮件。（我在 aliases 文件中没有个人条目，我是否除了 .forward 文件和 inquir 条目之外，还需要一个 aliases 条目？）
 >
 > 所以，有谁能：
-> 
+>
 > A. 告诉我我应该忽略“你有邮件”的提示，因为实际上我没有邮件堆积在文件系统的某个隐秘角落；或者
-> 
+>
 > B. 找出那些邮件并转发给我，并修复问题，使这种情况不再发生。
 >
 > 谢谢。
@@ -409,23 +409,23 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 第二天，Alan 自己回答了他的问题：
 
 > 日期：1988 年 10 月 7 日 星期五 14:44 EDT
-> 
+>
 > 来自：Alan Bawden [alan@ai.ai.mit.edu](mailto:alan@ai.ai.mit.edu)
-> 
+>
 > 收件人：Unix 痛恨者
-> 
+>
 > 主题：我有邮件吗？
-> 
+>
 >
 > 日期：1988 年 10 月 6 日 星期四 22:50:53 EDT
-> 
+>
 > 来自：Alan Bawden [alan@ai.mit.edu](mailto:alan@ai.mit.edu)
-> 
+>
 > …（我在 aliases 文件中没有个人条目，我是否除了 .forward 文件和 inquir 条目之外，还需要一个 aliases 条目？）…
-> 
-> 
+>
+>
 > 显然，答案是“是”。如果包含你主目录的文件服务器宕机，邮件程序就找不到你的 .forward 文件，所以邮件会被投递到 /usr/spool/mail/alan（或其他地方）。因此，如果你真的不想学会如何在 Unix 上读邮件，你就必须在别名文件中添加一个个人条目。我猜，你主目录里的 .forward 文件不过是让 Unix 邮件程序行为更难预测的一种机制而已。
-> 
+>
 > 我倒是很好奇，如果存放别名文件的文件服务器宕机，会发生什么？
 
 ### 未遵循协议
@@ -447,11 +447,11 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 
 
 > 来自：Devon Sean McCullough [devon@ghoti.lcs.mit.edu](mailto:devon@ghoti.lcs.mit.edu)
-> 
+>
 > 收件人： <PAGANISM Digest Subscriber>
 >
 > 此邮件被发送到 PAGANISM-REQUEST，而非 PAGANISM。要么是你，要么是你的“r”键出了问题。或者是 digest 出了故障。无论如何，你可以尝试重新发送一次。
-> 
+>
 > ——Devon
 
 
@@ -459,7 +459,7 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 
 
 > 日期：1991 年 1 月 27 日 星期日 11:28:11 PST
-> 
+>
 > 来自： <Paganism Digest Subscriber>
 
 > 收件人：Devon Sean McCullough [devon@ghoti.lcs.mit.edu](mailto:devon@ghoti.lcs.mit.edu)
@@ -469,21 +469,21 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 这句话的含义非常容易理解：
 
 > 日期：1991 年 1 月 28 日 星期一 18:54:58 EST
-> 
+>
 > 来自：Alan Bawden [alan@ai.mit.edu](mailto:alan@ai.mit.edu)
-> 
+>
 > 收件人：Unix 痛恨者
-> 
+>
 > 主题：令人沮丧
 >
 > 请注意这里典型的 Unix 小粉丝的推理：
-> 
+>
 > “digestifier 会生成带有正确 Reply-To 字段的头部，期望你的邮件阅读工具会按照文档、标准的 RFC822 方式解释该头部。Berkeley Unix Mail 违背所有标准，与所有合理的邮件阅读工具不同，它忽略 Reply-To 字段，错误地使用 From 字段。”
-> 
+>
 > 因此：
-> 
+>
 > “digestifier 是错误的。”
-> 
+>
 > 坦白说，我认为整个人类都注定要失败。在接下来的几百年里，我们除了被自己的废物噎死，几乎没有其他任何可能。
 
 需要注意的是，Berkeley Mail 的这个特定问题已经得到修复；现在 Mail 会正确遵循邮件中存在的“Reply-To:”头字段。另一方面，认为 Unix 实现比标准本身更准确的态度至今仍在延续，这种现象普遍存在。互联网工程任务组（IETF）已经着手重写互联网的 RFC“标准”，以使它们符合实现这些标准的 Unix 程序。
@@ -499,33 +499,35 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 
 
 > 日期：1988 年 6 月 9 日 星期四 22:23 EDT
-> 
+>
 > 来自： [pgs@xx.lcs.mit.edu](mailto:pgs@xx.lcs.mit.edu)
-> 
+>
 > 收件人：Unix 痛恨者
-> 
+>
 > 主题：邮件程序的毛病
 >
 > 你有没有想过 Unix 邮件阅读器是如何解析邮件文件的？你会看到这些来自 UUCP 领域的失败者发来的杂乱信息，它们总是插入其他消息的部分，并且在每条插入行前都有奇怪的字符。比如这样：
 >
 > 来自 Unix Weenie \<piffle!padiddle!pudendum!weenie>
-> 
+>
 > 日期：2 月 13 日 星期二 22:12:33 EDT
-> 
+>
 > 来自 Unix Weenie \<piffle!padiddle!pudendum!weenie>
-> 
+>
 > 收件人：net.soc.singles.sf-lovers.lobotomies.astronomy.laserlovers.unix.wizards.news.group
 >
 > 你在上次的帖子中本想攻击我，但当你说
+>
 >```sh
 >> >> %> $> Received: from magilla.uucp by gorilla.uucp
 >> >> %> $> via uunet with sendmail
 >> >> %> $> …
 >```
+>
 > 时，你显然不知道你在说什么，
 > 所以发帖时要三思，
 >
->  来自你的主机，当你发那条消息时，它被送到所有不想看你攻击的人那里，所以别这么做 ):-(
+> 来自你的主机，当你发那条消息时，它被送到所有不想看你攻击的人那里，所以别这么做 ):-(
 
 那么！为什么第二段开头那行的“From”前面会有一个尖括号呢？你可能会以为这和 Usenet 上 Unix 迷们相互交流时用的秘密代码有关，表示他们其实是在引用某个无休止的公共对话中前面第十五条消息，但事实并非如此。那个尖括号是邮件程序加上的。邮件阅读程序通过查找以“From”开头的行来解析邮件文件，所以邮件程序必须对以“From”开头的文本行进行变换，以免让邮件阅读器混淆。你可以自己验证这一点，给自己发一封邮件，邮件正文里包含一行以“From”开头的文本。
 
@@ -540,17 +542,17 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 那么，当你向付费的电子邮件服务供应商投诉他的机器不遵守协议，甚至违法时，会发生什么？Jerry Leichter 向他的供应商投诉，得到如下回应：
 
 > 日期：1992 年 3 月 24 日 星期二 22:59:55 EDT
-> 
+>
 > 发件人：Jerry Leichter [leichter@lrw.com](mailto:leichter@lrw.com)
-> 
+>
 > 收件人：Unix 痛恨者
-> 
+>
 > 主题：那个神奇的“>From”
 >
 > 发件人：<一位客户服务代表> [^5]
 >
 > 我和其他人都不认为这是个漏洞。如果你能找到某个 RFC 明确说明我们不应该这样做，我们肯定会修复它。在那之前，这将是我最后一次回复。正如我之前提到的，我已经把此事报告给了我的上司。正如我所说，这似乎是 Unix 处理此事的方式。我已经从运行最新软件的机器发送了测试邮件。最后附上 rfc976 的一段内容：
-> 
+>
 > \[已删除]
 
 
@@ -569,11 +571,11 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 你可以分辨出住在 Unix 地狱中间圈层的人和那些在较低层的人。中间层的人知道 >From 导致的问题，但认为 uuencode 是避免问题的办法。Uuencode 将文件编码为只使用 7 位字符的格式，而不是 Unix 邮件系统或网络系统可能难以发送的 8 位字符格式。程序 uudecode 可以解码 uuencoded 文件，生成原始文件的副本。uuencoded 文件据说比纯文本更安全发送；例如，不能对这类文件发生“>From”的扭曲。不幸的是，Unix 邮件系统还有其他方法折磨用户：
 
 > 日期：1992 年 8 月 4 日 星期二 16:07:47 HKT
-> 
+>
 > 发件人：“Olin G. Shivers” [shivers@csd.hku.hk](mailto:shivers@csd.hku.hk)
-> 
+>
 > 收件人：Unix 痛恨者
-> 
+>
 > 主题：需要你们的帮助。
 >
 > 任何认为 uuencode 可以保护邮件内容的人都活在梦里。uuencode 根本没用。这个蠢程序在编码中使用了 ASCII 空格。一连串的空字节会被映射为一连串的空格。而许多 Unix 邮件程序“体贴地”把邮件行末的空格删掉。这样你辛辛苦苦编码好的数据就完蛋了。
@@ -614,11 +616,11 @@ unknown mailer error 1
 结论显而易见：你能收到邮件，或者你发出的邮件能成功送达，都是幸运的事情。那些认为邮件系统本来就很复杂、难以正确实现的 Unix 狂热者是错误的。邮件系统曾经运作良好，并且非常可靠。直到 Unix 的出现，在“进步”的名义下破坏了一切。
 
 > 日期：1991 年 4 月 9 日 星期二 22:34:19 -0700
-> 
+>
 > 发件人：Alan Borning [borning@cs.washington.edu](mailto:borning@cs.washington.edu)
-> 
+>
 > 收件人：Unix 痛恨者
-> 
+>
 > 主题：休假程序
 >
 > 我在前前周去参加了一个会议，决定试着做一回 Unix 呆瓜，设置“休假”自动回复消息。我本该早点知道会出事的。
@@ -629,9 +631,9 @@ unknown mailer error 1
 
 
 > 发件人：[eric@ucbmonet.berkeley.edu](mailto:eric@ucbmonet.berkeley.edu)（Eric Allman）
-> 
+>
 > 主题：我正在休假
-> 
+>
 > 由休假程序大发慈悲地送达
 > …
 
@@ -650,23 +652,23 @@ Allman 接着写道：“邮件系统必须明确指出某个邮件是否已经�
 这种设计选择——宁愿传递两份邮件副本也不传递任何副本——在大多数情况下确实要优越得多。当然，邮件丢失是件糟糕的事情。另一方面，保证同步、原子操作的技术，即使是对于运行在两台不同计算机上的进程，也是在 1983 年 sendmail 编写时就已经被理解和掌握的。
 
 > 日期：1991 年 5 月 9 日 星期四 23:26:50 -0700
-> 
+>
 > 发件人：“Erik E. Fair”[^6]（你友好的邮局管理员） [fair@apple.com](mailto:fair@apple.com)
-> 
+>
 > 收件人：[tcp-ip@nic.ddn.mil](mailto:tcp-ip@nic.ddn.mil), [unicode@sun.com](mailto:unicode@sun.com), \[...]
-> 
+>
 > 主题：复制错误案例：
-> 
+>
 > 一位互联网邮局管理员的恐怖故事
 >
 > 这是网络：苹果工程网络。
-> 
+>
 > 苹果工程网络拥有大约 100 个 IP 子网，224 个 AppleTalk 区域，以及 600 多个 AppleTalk 网络。它的覆盖范围从日本东京到法国巴黎，在美国有六个地点，硅谷内有 40 栋建筑。它在三个地点与互联网相连：硅谷的两个和波士顿的一个。每天支持近 10,000 名用户。
 >
 > 当这个网络上的电子邮件出现问题时，责任归我。我叫 Fair，是这方面的负责人。
-> 
+>
 > 【插入《Dragnet》主题曲】
-> 
+>
 > 你即将读到的故事是真实的。名字未做更改，以便指认罪犯。
 >
 > 那是一个周一的傍晚。我在工程计算机操作部门值交接班，由 Richard Herndon 指挥。我没有搭档。
@@ -728,9 +730,9 @@ Allman 接着写道：“邮件系统必须明确指出某个邮件是否已经�
 > 【插入《阴阳魔界》主题曲】
 >
 > 就是那个 vax，女士，
-> 
+>
 > Erik E. Fair
-> 
+>
 > [fair@apple.com](mailto:fair@apple.com)
 
 

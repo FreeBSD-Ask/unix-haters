@@ -40,9 +40,9 @@ Usenet 的拥护者称它是一种基于合作的伟大契约，但他们没说�
 >总之，这是一个 Un\*x 和 UseNet 混乱的经典案例：蠢上加蠢，不断扩散螺旋。我很抱歉（公开）承认自己也禁不住忍不住发表了我的 \$.02 意见：
 >
 >> Newsgroups: news.admin
->> 
+>>
 >> Subject: 分裂 BandyHairs™
->> 
+>>
 >> Distribution: 全球
 >>
 >> 我很高兴我们有 nntp 管理员来更或少合理地讨论运行 netnews 的问题。但既然我们在 news.admin 这里浪费时间和带宽：
@@ -243,7 +243,7 @@ $DOTDIR/K/news.group.name
 
 ## 无聊网络的七个阶段
 
-- 作者：Mark Waks
+* 作者：Mark Waks
 
 Usenet 发表者的七个阶段，附带示例说明。
 
