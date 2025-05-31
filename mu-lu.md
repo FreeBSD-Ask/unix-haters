@@ -19,9 +19,6 @@
 ## 第一部分：用户友好？
 
 * [Unix：世界上第一款计算机病毒](di-yi-bu-fen-yong-hu-you-hao/unix-shi-jie-shang-di-yi-kuan-ji-suan-ji-bing-du.md)
-
-***
-
 * [欢迎，新用户！ 就像装满六发子弹的俄罗斯轮盘赌](huan-ying-xin-yong-hu-jiu-xiang-zhuang-man-liu-fa-zi-dan-deeluo-si-lun-pan-du.md)
 * [文档？什么文档？](wen-dang-shen-me-wen-dang.md)
 * [邮件：别跟我说话，我不是打字机](you-jian-bie-gen-wo-shuo-hua-wo-bu-shi-da-zi-ji.md)
