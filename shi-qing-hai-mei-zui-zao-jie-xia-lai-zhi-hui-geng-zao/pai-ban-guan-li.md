@@ -5,4 +5,4 @@
 
 就是这样。本书不是那种难以阅读、使用五种不同字体风格、十几种字体的晦涩计算机手册。我们讨厌那些看起来像和图坦卡蒙国王圣物一起被发掘出来的计算机手册。
 
-本书排版时没有借助 troff、eqn、pic、tbl、yuc、ick 及任何其他愚蠢的 Unix 缩写。实际上，本书使用 FrameMaker 在 Macintosh、Windows 机器和 NeXTstation 上排版完成。
+本书排版时没有借助 troff、eqn、pic、tbl、yuc、ick 及任何其他愚蠢的 Unix 缩写软件。实际上，本书使用 FrameMaker 在 Macintosh、Windows 机器和 NeXTstation 上完成排版。
