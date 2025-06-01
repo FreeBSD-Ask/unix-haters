@@ -3,6 +3,14 @@
 
 本文档由 FreeBSD 中文社区译制。
 
+*The UNIX Hater's Handbook*
+
+Simson L. Garfinkel、Daniel Weise、Steven Strassmann 等编著
+
+IDG Books Worldwide, Inc. 于 1994 出版
+
+ISBN：978-1568842035
+
 ---
 
 
