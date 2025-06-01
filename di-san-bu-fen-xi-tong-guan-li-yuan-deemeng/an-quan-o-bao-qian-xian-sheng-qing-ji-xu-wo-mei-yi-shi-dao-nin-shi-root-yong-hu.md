@@ -1,2 +1,4 @@
 # 安全：哦，抱歉，先生，请继续，我没意识到您是 root 用户
 
+
+![](../.gitbook/assets/anquan.png)
