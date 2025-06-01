@@ -5,7 +5,7 @@
 * Allman, Eric. “Mail Systems and Addressing in 4.2bsd.” January 1983, USENIX.
 * Allman, Eric, and Miriam Amos. “Sendmail Revisited.” Summer 1985, USENIX.
 * Costales, Bryan, Eric Allman, and Neil Rickert. *sendmail*. O’Reilly & Associates, 1993.
-* Comer, Douglas. 《用TCP/IP进行网际互连第一卷》, 电子工业出版社, 2009-8, ISBN: 9787121091612
+* Comer, Douglas. 《用 TCP/IP 进行网际互连第一卷》, 电子工业出版社, 2009-8, ISBN: 9787121091612
 * Coplien, James O. 《Advanced C++ 中文版》. 中国电力出版社, 2004-2, ISBN: 9787508319155
 * Crichton, Michael. 《细菌》. 时代文艺出版社, 2008-6, ISBN: 9787538724165
 * Crichton, Michael. 《侏罗纪公园》. 文汇出版社, 2018-4, ISBN: 9787549622016
