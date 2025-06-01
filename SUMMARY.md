@@ -24,7 +24,7 @@
 * [文档？什么文档？](di-yi-bu-fen-yong-hu-you-hao/wen-dang-shen-me-wen-dang.md)
 * [邮件：别跟我说话，我不是打字机](di-yi-bu-fen-yong-hu-you-hao/you-jian-bie-gen-wo-shuo-hua-wo-bu-shi-da-zi-ji.md)
 * [无聊的网络：我发帖，故我在](di-yi-bu-fen-yong-hu-you-hao/wu-liao-de-wang-luo-wo-fa-tie-gu-wo-zai.md)
-* [终端错乱：可恶！又挂了！](di-yi-bu-fen-yong-hu-you-hao/zhong-duan-cuo-luan-ke-wu-you-gua-le.md)
+* [终端错乱：靠！又挂了！](di-yi-bu-fen-yong-hu-you-hao/zhong-duan-cuo-luan-ke-wu-you-gua-le.md)
 * [X-Windows 灾难：教你把 50 MIPS 工作站慢成 4.77MHz IBM PC](di-yi-bu-fen-yong-hu-you-hao/xwindows-zai-nan-jiao-ni-ba-50-mips-gong-zuo-zhan-man-cheng-4.77mhz-ibm-pc.md)
 
 ## 第二部分：程序员的系统？
