@@ -258,7 +258,7 @@ Unix 有许多参数可以根据不同的需求和操作条件来调节其性能
 很显然，Unix 并不适用于需要持续在线运行的应用系统。有一批 Unix 系统原本要求持续在线运行，不得不在它们的 `/etc/motd` 中告诉用户：“在备份期间请预期异常行为”。
 
 ```sh
-SunOS Release 4.1.1 (DIKUSUN4CS) #2:Sun Sep 22 20:48:55 MET DST 1991
+SunOS Release 4.1.1 (DIKUSUN4CS) #2: Sun Sep 22 20:48:55 MET DST 1991
 --- BACKUP PLAN ----------------------------------------------------
 Skinfaxe: 24. Aug, 9.00-12.00 Please note that anomalies can
 Freja & Ask: 31. Aug, 9.00-13.00 be expected when using the Unix

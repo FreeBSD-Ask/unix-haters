@@ -180,7 +180,7 @@ Unix 有个权宜之计叫锁文件，其基本思想是创建文件是原子操
 
 > 日期：1990 年 5 月 17 日 星期四 22:07:20 PDT
 >
-> 发件人：Michael Tiemann \<cygint\![tiemann@labrea.stanford.edu](mailto:tiemann@labrea.stanford.edu)>
+> 发件人：Michael Tiemann \< cygint\! [tiemann@labrea.stanford.edu](mailto:tiemann@labrea.stanford.edu) >
 >
 > 收件人：Unix 痛恨者
 >
@@ -246,7 +246,7 @@ rt005mfkbgkw0.cp
 
 > 日期：1990 年 1 月 8 日 星期一 18:41:57 PST
 >
-> 发件人：sun!wrs!yuba\![steve@decwrl.dec.com](mailto:steve@decwrl.dec.com) (Steve Sekiguchi)
+> 发件人：sun! wrs! yuba\! [steve@decwrl.dec.com](mailto:steve@decwrl.dec.com) (Steve Sekiguchi)
 >
 > 主题：Info-Mac Digest V8 #35 [^5]
 >
@@ -261,7 +261,7 @@ rt005mfkbgkw0.cp
 > Steven Sekiguchi
 > Wind River Systems
 >
-> sun!wrs!steve, [steve@wrs.com](mailto:steve@wrs.com)
+> sun! wrs! steve, [steve@wrs.com](mailto:steve@wrs.com)
 > Emeryville CA, 94608
 
 

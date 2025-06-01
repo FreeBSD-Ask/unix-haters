@@ -55,7 +55,7 @@
 >>
 >> 发件人：silv@upton.com（Stephen J. Silver [^1]
 >>
-> >收件人：mit-eddie!STONYBROOK.SCRC.Symbolics.COM!CStacy@EDDIE.MIT.EDU[^2]
+> >收件人：mit-eddie! STONYBROOK.SCRC.Symbolics.COM! CStacy@EDDIE.MIT.EDU [^2]
 >>
 >>主题：Re: mangled headers
 >>
@@ -214,9 +214,9 @@ Sendmail 在每一步骤都搞砸了
 >
 > 备注：由 CS.Stanford.EDU 转发
 >
-> 显示收件人： \<Juan ECHAGUE 电子邮件\:jve\@lifia.imag.fr 电话:76 57 46 68 (33)>
+> 显示收件人： \< Juan ECHAGUE 电子邮件\: jve\@lifia.imag.fr 电话: 76 57 46 68 (33)>
 >
-> 显示收件人： \<PS: 我会总结兴趣等[.@Neon.Stanford.EDU](mailto:.@Neon.Stanford.EDU)>
+> 显示收件人： \< PS: 我会总结兴趣等 [.@Neon.Stanford.EDU](mailto:.@Neon.Stanford.EDU) >
 >
 > 显示收件人： [Juan@Neon.Stanford.EDU](mailto:Juan@Neon.Stanford.EDU)
 >
@@ -510,11 +510,11 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 >
 > 你有没有想过 Unix 邮件阅读器是如何解析邮件文件的？你会看到这些来自 UUCP 领域的失败者发来的杂乱信息，它们总是插入其他消息的部分，并且在每条插入行前都有奇怪的字符。比如这样：
 >
-> 来自 Unix Weenie \<piffle!padiddle!pudendum!weenie>
+> 来自 Unix Weenie \< piffle! padiddle! pudendum! weenie >
 >
 > 日期：2 月 13 日 星期二 22:12:33 EDT
 >
-> 来自 Unix Weenie \<piffle!padiddle!pudendum!weenie>
+> 来自 Unix Weenie \< piffle! padiddle! pudendum! weenie >
 >
 > 收件人：net.soc.singles.sf-lovers.lobotomies.astronomy.laserlovers.unix.wizards.news.group
 >
@@ -533,13 +533,13 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 
 那么！为什么第二段开头那行的“From”前面会有一个尖括号呢？你可能会以为这和 Usenet 上 Unix 迷们相互交流时用的秘密代码有关，表示他们其实是在引用某个无休止的公共对话中前面第十五条消息，但事实并非如此。那个尖括号是邮件程序加上的。邮件阅读程序通过查找以“From”开头的行来解析邮件文件，所以邮件程序必须对以“From”开头的文本行进行变换，以免让邮件阅读器混淆。你可以自己验证这一点，给自己发一封邮件，邮件正文里包含一行以“From”开头的文本。
 
-这是一个非常重要的点，因此值得反复强调。“>From”的原因来自 Unix 邮件系统区分单个邮箱中多封电子邮件的方式（按照 Unix 设计，邮箱只是另一个文件）。Unix 没有使用特殊的控制序列，也没有把控制信息放入单独文件，或者在邮件文件开头放置特殊头信息，而是假设任何以字母 F-r-o-m 后跟一个空格（“ ”）开头的行，标志着一封新邮件的开始。
+这是一个非常重要的点，因此值得反复强调。“> From”的原因来自 Unix 邮件系统区分单个邮箱中多封电子邮件的方式（按照 Unix 设计，邮箱只是另一个文件）。Unix 没有使用特殊的控制序列，也没有把控制信息放入单独文件，或者在邮件文件开头放置特殊头信息，而是假设任何以字母 F-r-o-m 后跟一个空格（“ ”）开头的行，标志着一封新邮件的开始。
 
-利用邮件消息中可能包含的内容来表示关于邮件消息的信息，被称为带内通信（inband communication），任何上过电信课程的人都知道这是个坏主意。带内通信之所以不好，是因为通信消息本身有时会包含这些字符。因此，sendmail 会搜索以“From”开头的行并将其改为“>From”。
+利用邮件消息中可能包含的内容来表示关于邮件消息的信息，被称为带内通信（inband communication），任何上过电信课程的人都知道这是个坏主意。带内通信之所以不好，是因为通信消息本身有时会包含这些字符。因此，sendmail 会搜索以“From”开头的行并将其改为“> From”。
 
 你可能认为这是个无害的小动作，就像有人在公共场合大声打嗝一样。但有时候这些“打嗝”会被保存在公开论文中，而这些论文的文本是通过 sendmail 传输的。收件人相信消息已经被发送者校对过了，因此会照原文打印。不同的文本处理系统对“>”字符有不同的处理方式。例如，LaTeX 会把它变成倒置问号（¿）。如果你不信，可以查阅 Paritosh Pandya 撰写的论文《Some comments on the assumption-commitment framework for compositional verification of distributed programs》，收录于《Stepwise Refinement of Distributed Systems》，Springer-Verlag，计算机科学讲义第 430 期，第 622–640 页。查看第 626、630 和 636 页——有三段以“From”开头，但前面都加了 ¿。
 
-即使 sendmail 不是邮件的“最终投递代理”——也就是说，邮件是发往其他机器，仅经过某个带 sendmail 邮件程序的系统中转，sendmail 也会破坏邮件格式。例如，微软几乎所有人都用 DOS 或 Windows 程序发送和读取邮件，但内部邮件仍然满是那些“>From”。为什么？因为邮件在从一个 DOS 机器跳转到另一个时，会经过一个类似 Unix 的系统，邮件就被永久“毁容”了。
+即使 sendmail 不是邮件的“最终投递代理”——也就是说，邮件是发往其他机器，仅经过某个带 sendmail 邮件程序的系统中转，sendmail 也会破坏邮件格式。例如，微软几乎所有人都用 DOS 或 Windows 程序发送和读取邮件，但内部邮件仍然满是那些“> From”。为什么？因为邮件在从一个 DOS 机器跳转到另一个时，会经过一个类似 Unix 的系统，邮件就被永久“毁容”了。
 
 那么，当你向付费的电子邮件服务供应商投诉他的机器不遵守协议，甚至违法时，会发生什么？Jerry Leichter 向他的供应商投诉，得到如下回应：
 
@@ -549,7 +549,7 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 >
 > 收件人：Unix 痛恨者
 >
-> 主题：那个神奇的“>From”
+> 主题：那个神奇的“> From”
 >
 > 发件人：<一位客户服务代表> [^5]
 >
@@ -558,7 +558,7 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 > \[已删除]
 
 
-我不会引用那段精彩的话，因为它丝毫无法证明邮件转发代理修改邮件正文是合理的——它只是说，“From”行和“>From”行，不管它们来自哪里，都属于语法类别 From\_Lines。按照典型的 Unix 逻辑，因为它没有明确说你不能这么做，而且还提到这种行的存在，所以这一定是合法的，对吧？
+我不会引用那段精彩的话，因为它丝毫无法证明邮件转发代理修改邮件正文是合理的——它只是说，“From”行和“> From”行，不管它们来自哪里，都属于语法类别 From\_Lines。按照典型的 Unix 逻辑，因为它没有明确说你不能这么做，而且还提到这种行的存在，所以这一定是合法的，对吧？
 
 我最近查到了 1982 年 7 月的 SMTP RFC 草案。它明确规定，邮件应当保持不变地投递，只有一些经过记录的例外情况。里面根本没有提到“>”字符。十年过去了，不仅这种做法仍然是错误的——而且还是在一个收费的商业系统里——而那些犯错的人甚至都看不出自己错在哪里。
 
@@ -570,7 +570,7 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 ### uuencode：又一个补丁，又一次失败
 
 
-你可以分辨出住在 Unix 地狱中间圈层的人和那些在较低层的人。中间层的人知道 >From 导致的问题，但认为 uuencode 是避免问题的办法。Uuencode 将文件编码为只使用 7 位字符的格式，而不是 Unix 邮件系统或网络系统可能难以发送的 8 位字符格式。程序 uudecode 可以解码 uuencoded 文件，生成原始文件的副本。uuencoded 文件据说比纯文本更安全发送；例如，不能对这类文件发生“>From”的扭曲。不幸的是，Unix 邮件系统还有其他方法折磨用户：
+你可以分辨出住在 Unix 地狱中间圈层的人和那些在较低层的人。中间层的人知道 > From 导致的问题，但认为 uuencode 是避免问题的办法。Uuencode 将文件编码为只使用 7 位字符的格式，而不是 Unix 邮件系统或网络系统可能难以发送的 8 位字符格式。程序 uudecode 可以解码 uuencoded 文件，生成原始文件的副本。uuencoded 文件据说比纯文本更安全发送；例如，不能对这类文件发生“> From”的扭曲。不幸的是，Unix 邮件系统还有其他方法折磨用户：
 
 > 日期：1992 年 8 月 4 日 星期二 16:07:47 HKT
 >

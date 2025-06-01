@@ -60,7 +60,7 @@ SUID 不仅限于超级用户——任何程序都可以被设置为 SUID，任�
 * 1986 年 1 月由 Michael R. Gretzinger（Athena 项目）修改
 *
 * 增加了 POP（邮局协议）服务。编译时使用 -DPOP，
-* movemail 将接受形如 "po:username" 的输入文件名参数。
+* movemail 将接受形如 "po: username" 的输入文件名参数。
 * 这将使 movemail 连接到运行在 $MAILHOST（环境变量）上的 pop 服务器。
 * movemail 必须设置为 SUID root 才能与 POP 配合工作。
 *

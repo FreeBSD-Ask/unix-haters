@@ -357,7 +357,7 @@ Unix 则遵循更古老的“调试如尸检”模型。在 Unix 中，程序崩
 
 > 日期：1991 年 1 月 2 日 星期三 07:42:04 PST
 >
-> 发件人：Michael Tiemann \<cygint\! [tiemann@labrea.stanford.edu](mailto:tiemann@labrea.stanford.edu)>
+> 发件人：Michael Tiemann \< cygint\! [tiemann@labrea.stanford.edu](mailto:tiemann@labrea.stanford.edu) >
 >
 > 收件人：Unix 痛恨者
 >

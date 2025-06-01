@@ -268,7 +268,7 @@ NFS 还可能因为某些程序而导致系统冻结，这些程序期望能够�
 >
 >主题：回复：NeXT 上 Emacs 文件查找延迟问题
 >
->收件人：[help-gnu-emacs@prep.ai.mit.edu](mailto:help-gnu-emacs@prep.ai.mit.edu)[^4]
+>收件人：[help-gnu-emacs@prep.ai.mit.edu](mailto:help-gnu-emacs@prep.ai.mit.edu) [^4]
 >
 >在文章 [1991Sep16.231808.9812@s1.msi.umn.edu](mailto:1991Sep16.231808.9812@s1.msi.umn.edu) 中，
 [meuer@roch.geom.umn.edu](mailto:meuer@roch.geom.umn.edu)（Mark V. Meuer）写道：
@@ -299,7 +299,7 @@ Unix 仍然没有提供一个简单的机制让进程发现它的“当前目录
 >
 >主题：Emacs 需要所有文件服务器？（原主题：AB 宕机）
 >
->收件人：[CarlManning@ai.mit.edu](mailto:CarlManning@ai.mit.edu)[^5]
+>收件人：[CarlManning@ai.mit.edu](mailto:CarlManning@ai.mit.edu) [^5]
 >
 >抄送：[SYSTEM-HACKERS@ai.mit.edu](mailto:SYSTEM-HACKERS@ai.mit.edu)，[SUN-FORUM@ai.mit.edu](mailto:SUN-FORUM@ai.mit.edu)
 >
