@@ -3,6 +3,10 @@
 
 本文档由 FreeBSD 中文社区译制。
 
+那些认为本书严重过时的人们，不妨看看[《开源与苦难哲学》](https://book.bsdasia.org/di-2-zhang-ku-nan-zhe-xue-yan-jiu/di-2.1-jie-linux-yu-ku-nan-zhe-xue)。书中至少 90% 的内容至今仍然都是成立的。
+
+---
+
 *The UNIX Hater's Handbook*
 
 Simson L. Garfinkel、Daniel Weise、Steven Strassmann 等编著
