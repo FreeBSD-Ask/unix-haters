@@ -245,11 +245,11 @@ Unix 的 shell 一直是 Unix 文档编写者的难题：毕竟，shell 有内�
 > 收件人：Unix 痛恨者
 >
 > 主题：一致性对于 Unix 弱鸡来说太累赘
-> 
+>
 > 我最近不得不帮助一位沮丧的 Unix 新手解决这些难题：在 Bourne shell（“标准”的 Unix shell）下，`set` 命令用于设置选项开关。在 c shell（另一种“标准”Unix shell）下，`set` 用于设置 shell 变量。如果你执行 `man set`，你会得到其中一种命令的定义（取决于该特定 Unix 系统供应商的随意决定），但通常不会同时得到两者，有时甚至都没有，且绝对不会提示存在另一个冲突的定义。  
-> 
+>
 > 错误地在一个 shell 中使用另一个 shell 的 `set` 语法会静默失败，完全没有任何错误或警告。更糟的是，在 Bourne shell 下输入 `set` 会列出 shell 变量！  
-> 
+>
 > Craig
 
 未记录的 shell 内置命令不仅对新手来说是个谜。
@@ -264,9 +264,9 @@ Unix 的 shell 一直是 Unix 文档编写者的难题：毕竟，shell 有内�
 > 收件人：zvona@gang-of-four.stanford.edu
 >
 > 抄送：Unix 痛恨者  
-> 
+>
 > 为什么你不直接输入 `fg %emacs` 或者干脆 `%emacs`？  
-> 
+>
 >得了，David，Unix 里已经有这么多失败了，你没必要去发明想象中的失败来抱怨！<笑>
 
 可悲的是，David 并不知道他只需输入 `%emacs` 就能重新启动挂起的 Emacs 任务。他从未在任何地方见过相关文档。
@@ -437,9 +437,9 @@ Unix 世界承认这种糟糕状况，但并不为此道歉。《Life with Unix�
 > 发件人：David Chapman <zvona@gang-of-four.stanford.edu>
 >
 > 收件人：Unix 痛恨者  
-> 
+>
 > 我喜欢这个。摘自 man man：  
-> 
+>
 >> 诊断信息
 >>
 >> 如果你使用 `-M` 选项，并指定了一个不存在的目录，错误信息会有些误导。假设目录 `/usr/foo` 不存在。如果你输入：  
@@ -490,7 +490,7 @@ Unix 世界承认这种糟糕状况，但并不为此道歉。《Life with Unix�
 > >尽管如此，为什么你仍然应该读这本书
 > >
 > >“这是你 EVER 会读的最后一本手册！”
-> 
+>
 > 第 1 章：猜测哪些命令可能存在
 >
 > 第 2 章：猜测命令可能叫什么名字

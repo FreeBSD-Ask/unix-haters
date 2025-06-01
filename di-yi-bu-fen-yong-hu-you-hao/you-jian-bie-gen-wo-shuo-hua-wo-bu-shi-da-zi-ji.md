@@ -54,7 +54,7 @@
 >> 日期：1991 年 5 月 13 日 星期一 21:28 EDT
 >>
 >> 发件人：silv@upton.com（Stephen J. Silver[^1]
->> 
+>>
 > >收件人：mit-eddie!STONYBROOK.SCRC.Symbolics.COM!CStacy@EDDIE.MIT.EDU[^2]
 >>
 >>主题：Re: mangled headers
