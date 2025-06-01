@@ -24,7 +24,7 @@
 * [文档？什么文档？](di-yi-bu-fen-yong-hu-you-hao/wen-dang-shen-me-wen-dang.md)
 * [邮件：别跟我说话，我不是打字机](di-yi-bu-fen-yong-hu-you-hao/you-jian-bie-gen-wo-shuo-hua-wo-bu-shi-da-zi-ji.md)
 * [无聊的网络：我发帖，故我在](di-yi-bu-fen-yong-hu-you-hao/wu-liao-de-wang-luo-wo-fa-tie-gu-wo-zai.md)
-* [终端错乱：可恶！又挂了！](di-yi-bu-fen-yong-hu-you-hao/zhong-duan-cuo-luan-ke-wu-you-gua-le.md)
+* [终端错乱：靠！又挂了！](di-yi-bu-fen-yong-hu-you-hao/zhong-duan-cuo-luan-ke-wu-you-gua-le.md)
 * [X-Windows 灾难：教你把 50 MIPS 工作站慢成 4.77MHz IBM PC](di-yi-bu-fen-yong-hu-you-hao/xwindows-zai-nan-jiao-ni-ba-50-mips-gong-zuo-zhan-man-cheng-4.77mhz-ibm-pc.md)
 
 ## 第二部分：程序员的系统？
@@ -43,7 +43,7 @@
 ## 第四部分：等等
 
 * [尾声：通过 Unix 获得的启示](di-si-bu-fen-deng-deng/wei-sheng-tong-guo-unix-huo-de-de-qi-shi.md)
-* [创造者承认 C 和 Unix 是骗局。新闻稿：立即发布](di-si-bu-fen-deng-deng/chuang-zao-zhe-cheng-ren-c-he-unix-shi-pian-ju-xin-wen-gao-li-ji-fa-bu.md)
+* [作者坦言 C 和 Unix 是骗局。新闻稿：立即发布](di-si-bu-fen-deng-deng/chuang-zao-zhe-cheng-ren-c-he-unix-shi-pian-ju-xin-wen-gao-li-ji-fa-bu.md)
 * [“更坏即是更好”的崛起（作者：Richard P. Gabrie）](di-si-bu-fen-deng-deng/geng-huai-ji-shi-geng-hao-de-jue-qi-zuo-zhe-richard-p.-gabrie.md)
 * [参考文献：正当你以为已经脱离困境时](di-si-bu-fen-deng-deng/can-kao-wen-xian-zheng-dang-ni-yi-wei-yi-jing-tuo-li-kun-jing-shi.md)
 
