@@ -46,3 +46,7 @@
 * [创造者承认 C 和 Unix 是骗局。新闻稿：立即发布](di-si-bu-fen-deng-deng/chuang-zao-zhe-cheng-ren-c-he-unix-shi-pian-ju-xin-wen-gao-li-ji-fa-bu.md)
 * [“更坏即是更好”的崛起（作者：Richard P. Gabrie）](di-si-bu-fen-deng-deng/geng-huai-ji-shi-geng-hao-de-jue-qi-zuo-zhe-richard-p.-gabrie.md)
 * [参考文献：正当你以为已经脱离困境时](di-si-bu-fen-deng-deng/can-kao-wen-xian-zheng-dang-ni-yi-wei-yi-jing-tuo-li-kun-jing-shi.md)
+
+## 附录
+
+* [重新审视《Unix 痛恨者手册》（Raymond, Eric S 于 2008）](Reconsidered.md)
