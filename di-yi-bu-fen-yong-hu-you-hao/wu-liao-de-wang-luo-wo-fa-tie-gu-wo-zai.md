@@ -29,7 +29,7 @@ Usenet 的拥护者称它是一种基于合作的伟大契约，但他们没说�
 >
 >主题：在 LuseNet 上拆分 BandyHairs™
 >
->收件人：VOID、FEATURE-ENTENMANNS、UNIX-HATERS
+>收件人：VOID、FEATURE-ENTENMANNS、Unix 痛恨者
 >
 >news.admin 新闻组最近陷入瘫痪（并非说它以前就正常过），原因是一场由 [bandy@catnip.berkeley.ca.us](mailto:bandy@catnip.berkeley.ca.us) 发起的漫长口水战，他可能是你们中的某些人认识的。显然，他试图通过实现某程序来减少 Lusenet 上的噪音，该程序会取消交叉发布到 alt.cascade 的文章。“cascade”是个昵称，指一连串引用早期消息但几乎没有新内容的回复；由此产生的不断缩进、无意义的废话和末尾的取消缩进显然受到某些排版能力欠缺者的青睐。我们大多数人只是把这些人（黑话叫“perp”）加入屏蔽名单。
 >
@@ -151,7 +151,7 @@ Killfile 让读者可以在喧嚣的 Usenet 中建立起自己的小岛。例如
 >
 >发件人：Mark Lottor [mkl@nw.com](mailto:mkl@nw.com)
 >
->收件人：UNIX-HATERS
+>收件人：Unix 痛恨者
 >
 >主题：rn 的 kill 功能
 >
@@ -196,7 +196,7 @@ $DOTDIR/K/news.group.name
 
 > 日期：1991 年 9 月 27 日 星期五 16:26:02 EDT
 > 发件人：Robert E. Seastrom [rs@ai.mit.edu](mailto:rs@ai.mit.edu)
-> 收件人：UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 主题：rn 咬了个 Unix 呆瓜一口
 >
 > 当时我正浪费时间在读 abUsenet 新闻，偶然看到一篇我觉得值得保留的文章。

@@ -86,7 +86,7 @@ Alan Bawden 对这种情况的评价是：
 >
 > 发件人：Alan Bawden [Alan@lcs.mit.edu](mailto:Alan@lcs.mit.edu)
 >
-> 收件人：UNIX-HATERS
+> 收件人：Unix 痛恨者
 >
 > 主题：别跟我说 curses
 >
@@ -104,7 +104,7 @@ Alan Bawden 对这种情况的评价是：
 >
 > 发件人：“John R. Dunning” [jrd@stony-brook.scrc.symbolics.com](mailto:jrd@stony-brook.scrc.symbolics.com)
 >
-> 收件人：UNIX-HATERS
+> 收件人：Unix 痛恨者
 >
 > 主题：Unix 与终端设置
 >

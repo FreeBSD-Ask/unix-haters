@@ -75,7 +75,7 @@ Unix 亦如此。尽管最初体积小巧，但 Unix 以惊人的速度积累了
 >
 >发件人：Olin Shivers [shivers@bronto.soar.cs.cmu.edu](mailto:shivers@bronto.soar.cs.cmu.edu)
 >
->收件人：UNIX-HATERS
+>收件人：Unix 痛恨者
 >
 >主题：Unix 进化
 >
@@ -147,7 +147,7 @@ Sun Microsystems 成功，正是因为它生产了最便宜的工作站，而不
 >
 >发件人：[simsong@nextworld.com](mailto:simsong@nextworld.com)
 >
->收件人：UNIX-HATERS
+>收件人：Unix 痛恨者
 >
 >主题：Unix 命名
 >
@@ -171,7 +171,7 @@ Sun Microsystems 成功，正是因为它生产了最便宜的工作站，而不
 >
 >发件人：John R. Dunning [jrd@stony-brook.scrc.symbolics.com](mailto:jrd@stony-brook.scrc.symbolics.com)
 >
->收件人：[jnc@allspice.lcs.mit.edu](mailto:jnc@allspice.lcs.mit.edu)，UNIX-HATERS
+>收件人：[jnc@allspice.lcs.mit.edu](mailto:jnc@allspice.lcs.mit.edu)，Unix 痛恨者
 >
 >>主题：Unix：不兼容性的终极表现。
 >>

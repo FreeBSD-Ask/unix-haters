@@ -279,7 +279,7 @@ David Chapman 并非个例，许多在 Unix 痛恨者邮件列表上的人也发
 >
 > 收件人：Robert E. Seastrom [rs@eddie.mit.edu](mailto:rs@eddie.mit.edu)
 >
-> 抄送：UNIX-HATERS
+> 抄送：Unix 痛恨者
 >
 > 主题：回复：今天的抱怨：`fg %3` 这有文档说明吗，还是我得买个源码许可学着读 C 语言？
 >
@@ -342,7 +342,7 @@ awk: Usage: awk [-f source | 'cmds'] [files]
 >
 > 发件人：Mark Lottor [mkl@nw.com](mailto:mkl@nw.com)
 >
-> 收件人：UNIX-HATERS
+> 收件人：Unix 痛恨者
 >
 > 主题：无需评论
 >
@@ -436,7 +436,7 @@ Unix 世界承认这种糟糕状况，但并不为此道歉。《Life with Unix�
 >
 > 发件人：David Chapman <zvona@gang-of-four.stanford.edu>
 >
-> 收件人：UNIX-HATERS  
+> 收件人：Unix 痛恨者  
 > 
 > 我喜欢这个。摘自 man man：  
 > 

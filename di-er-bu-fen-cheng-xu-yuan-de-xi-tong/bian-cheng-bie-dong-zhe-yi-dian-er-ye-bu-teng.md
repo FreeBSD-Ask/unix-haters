@@ -26,7 +26,7 @@ Thomas Breuel 认为 Unix 提供了一种解决计算机科学复杂问题的方
 > 
 > 来自：[markf@altdorf.ai.mit.edu](mailto:markf@altdorf.ai.mit.edu)
 > 
-> 收件人：UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 
 > 主题：随机的 Unix 比喻
 > 
@@ -104,7 +104,7 @@ Unix 不是世界上最好的软件环境——甚至连一个好的环境都算
 
 你可能觉得我们夸大了，认为这个工具可以通过写几个小工具程序并用管道连接起来轻松实现，但事实并非如此，也做不到。
 
-[^1]: 此人写信告诉我们：“显然，我在 comp.lang.c++ 发布的一条信息被转发到了 UNIX-HATERS 邮件列表。如果我早知道这点，我根本不会发布那条信息。我绝对不希望我的名字或任何我写的内容与‘UNIX-HATERS’这个标题有任何关联。人们误用的风险实在太大了……你们可以使用这段引述，但不能使用我的名字及隶属关系。”
+[^1]: 此人写信告诉我们：“显然，我在 comp.lang.c++ 发布的一条信息被转发到了 Unix 痛恨者 邮件列表。如果我早知道这点，我根本不会发布那条信息。我绝对不希望我的名字或任何我写的内容与‘Unix 痛恨者’这个标题有任何关联。人们误用的风险实在太大了……你们可以使用这段引述，但不能使用我的名字及隶属关系。”
 
 ### 使用 yacc 进行解析
 
@@ -358,7 +358,7 @@ Unix 则遵循更古老的“调试如尸检”模型。在 Unix 中，程序崩
 > 
 > 发件人：Michael Tiemann \<cygint\![tiemann@labrea.stanford.edu](mailto:tiemann@labrea.stanford.edu)>
 > 
-> 收件人：UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 
 > 主题：调试器
 >
@@ -378,7 +378,7 @@ Unix 则遵循更古老的“调试如尸检”模型。在 Unix 中，程序崩
 > 
 > 发件人：Michael Tiemann [tiemann@cygnus.com](mailto:tiemann@cygnus.com)
 > 
-> 收件人：UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 
 > 主题：Unix 调试器
 >
@@ -498,7 +498,7 @@ Robert T. Morris 的 Unix 蠕虫就是利用了这种机制（以及其他手段
 > 
 > 发件人：Jim McDonald [jlm%missoula@lucid.com](mailto:jlm%missoula@lucid.com)
 > 
-> 收件人：UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 
 > 主题：你手上有多少根手指？
 >
@@ -582,7 +582,7 @@ Lisp 实现通常有真正的异常处理系统。异常情况有像 OUT-OF-MEMO
 > 
 > 发件人：Daniel Weise [daniel@mojave.stanford.edu](mailto:daniel@mojave.stanford.edu)
 > 
-> 收件人：UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 
 > 主题：现在，难道还不清楚吗？
 >

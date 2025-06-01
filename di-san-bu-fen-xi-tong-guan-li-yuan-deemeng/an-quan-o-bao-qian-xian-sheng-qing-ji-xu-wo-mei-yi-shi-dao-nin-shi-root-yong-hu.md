@@ -93,7 +93,7 @@ SUID 还有一个问题：它赋予用户制造混乱的能力，但却没有赋
 > 
 > 发件人：Robert E. Seastrom [rs@ai.mit.edu](mailto:rs@ai.mit.edu)
 > 
-> 收件人：UNIX-HATERS
+> 收件人：Unix 痛恨者
 > 
 > 主题：该死的 setuid
 >
@@ -301,7 +301,7 @@ Morris 蠕虫还利用了 finger 程序中的一个漏洞。通过向 finger 服
 >
 >发件人：Richard Mlynarik [mly@ai.mit.edu](mailto:mly@ai.mit.edu)
 >
->收件人：UNIX-HATERS
+>收件人：Unix 痛恨者
 >
 >主题：操作系统中的切尔诺贝利
 >
