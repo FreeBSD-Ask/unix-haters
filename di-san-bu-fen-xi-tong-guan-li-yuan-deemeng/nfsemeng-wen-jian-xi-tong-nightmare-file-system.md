@@ -304,8 +304,8 @@ Unix 仍然没有提供一个简单的机制让进程发现它的“当前目录
 >>
 >>发件人：Carl R. Manning [CarlManning@ai.mit.edu](mailto:CarlManning@ai.mit.edu)
 >>
->出于好奇，为什么 Emacs 在任何文件服务器宕机时都不能启动（比如在 rice-chex 上）？
->
+>>出于好奇，为什么 Emacs 在任何文件服务器宕机时都不能启动（比如在 rice-chex 上）？
+>>
 >>例如，最近 AB 或 WH 因磁盘问题宕机时，我无法在 RC 上启动 Emacs，尽管我根本不打算访问 AB 或 WH 上的任何文件。
 >
 >这是 Sun 的脑残设计。Emacs 调用了 getcwd，而 getcwd 会遍历 /etc/mtab 中挂载的文件系统。如果其中任何一个文件系统没有响应，Emacs 就会等待超时。像 RC 这样面向公共用户的机器上，文件系统宕机是很常见的。（重启 RC 就能解决这个问题。）
