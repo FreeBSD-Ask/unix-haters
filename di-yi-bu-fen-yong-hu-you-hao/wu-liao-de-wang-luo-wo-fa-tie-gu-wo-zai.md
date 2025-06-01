@@ -311,23 +311,23 @@ rec.humor.dead.babies —— 死婴笑话交换
 
 在消息（6:00\@cluck）中，chickenman\@cluck（Cluck Kent）大声说：
 
-＞在消息（2374373\@nybble）中，byte\@nybble（J. Quartermass Public）写道：
+>在消息（2374373\@nybble）中，byte\@nybble（J. Quartermass Public）写道：
 >
-＞＞在消息（5:00\@cluck）中，chickenman\@cluck（Cluck Kent）大声说：
+>>在消息（5:00\@cluck）中，chickenman\@cluck（Cluck Kent）大声说：
 >>
-＞＞＞在消息（2364821\@nybble）中，byte\@nybble（J. Quartermass Public）写道：
+>>>在消息（2364821\@nybble）中，byte\@nybble（J. Quartermass Public）写道：
 >>>
-＞＞＞＞在消息（4:00\@cluck）中，chickenman\@cluck（Cluck Kent）大声说：
+>>>>在消息（4:00\@cluck）中，chickenman\@cluck（Cluck Kent）大声说：
 >>>>
-＞＞＞＞＞因此，我提议创建 rec.humor.dead.chicken。
+>>>>>因此，我提议创建 rec.humor.dead.chicken。
 >>>>
-＞＞＞＞在他们申请这个新闻组之前，我指出他们应该遵守规则。指导方针明确说明，你必须能证明有足够的活跃度。我在 rec.humor.dead.babes 中没听到有这种活跃度，所以我必须得出结论，这个提议从表面上看就是骗局和欺诈。
+>>>>在他们申请这个新闻组之前，我指出他们应该遵守规则。指导方针明确说明，你必须能证明有足够的活跃度。我在 rec.humor.dead.babes 中没听到有这种活跃度，所以我必须得出结论，这个提议从表面上看就是骗局和欺诈。
 >>>
-＞＞＞上次我们试图在 r.h.d.b 发表死鸡笑话时，被大声斥责叫我们滚开！你这个废物，竟敢说我们没有活跃度？
+>>>上次我们试图在 r.h.d.b 发表死鸡笑话时，被大声斥责叫我们滚开！你这个废物，竟敢说我们没有活跃度？
 >>
-＞＞这类人身攻击实无必要。我只是想说：如果有人对死鸡笑话感兴趣，那么我们肯定会在 r.h.d.b 里听到一些关于死 *小鸡* 的笑话。我们没有听过任何这样的笑话，所以很明显没人对鸡的笑话感兴趣。
+>>这类人身攻击实无必要。我只是想说：如果有人对死鸡笑话感兴趣，那么我们肯定会在 r.h.d.b 里听到一些关于死 *小鸡* 的笑话。我们没有听过任何这样的笑话，所以很明显没人对鸡的笑话感兴趣。
 >
-＞那甚至都不合逻辑！你的推理完全错误。
+>那甚至都不合逻辑！你的推理完全错误。
 
 现在大家应该清楚，这个“Cluckhead”（“鸡头”，带侮辱意味）满嘴胡说。rec.humor.dead.chicken 没有人感兴趣，所以不应该创建它。这种人真的让我火大。他难道没意识到，只要多几个这样的新闻组，这整座纸牌屋就会倒塌吗？首先，我们会有 rec.humor.dead.chicken（毫无疑问，还有 rec.humor.dead.chicken.new）。接下来，他们会要求 rec.humor.ethnic，然后是 rec.humor.newfy。到那时，全世界的新闻管理员都会决定彻底抛弃我们。Cluck，你想要这个结果吗？想要促使 Usenet 的终结？
 
