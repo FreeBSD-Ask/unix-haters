@@ -53,7 +53,7 @@
 >
 >> 日期：1991 年 5 月 13 日 星期一 21:28 EDT
 >>
->> 发件人：silv@upton.com（Stephen J. Silver[^1]
+>> 发件人：silv@upton.com（Stephen J. Silver [^1]
 >>
 > >收件人：mit-eddie!STONYBROOK.SCRC.Symbolics.COM!CStacy@EDDIE.MIT.EDU[^2]
 >>
@@ -125,7 +125,7 @@ sendmail 是那种聪明的程序，功能多样，具体执行什么任务取�
 >
 > 所以我决定升级到最新版本的伯克利 Sendmail（8.6.5），据说它对那个标准的遵守做得非常“不严谨”。它附带了一份 FAQ 文档。多好啊，我们有 FAQ，这样越来越无能的 Weenix Unix 用户就能安装和误配置越来越复杂的软件，有时候甚至能诊断出以前需要 <倒吸一口气> 阅读源代码才能解决的问题！
 >
-> 其中它推荐的一本书，供想成为真正 Sendmail 大师 的人阅读，是：Costales、Allman 和 Rickert 合著的《Sendmail》，由 O’Reilly & Associates 出版。
+> 其中它推荐的一本书，供想成为真正 Sendmail 大师  的人阅读，是：Costales、Allman 和 Rickert 合著的《Sendmail》，由 O’Reilly & Associates 出版。
 >
 > 你见过这本书吗？它的页数比《战争与和平》还多。比我的 TOPS-10 系统调用手册还厚。用 .177 口径气枪近距离射击这书，它都能挡住弹丸，弹丸甚至连书的一半都没穿透（.22 口径测试安排在下周末）。对某些在互联网上跑机器的“蠢货”来说，可能需要这么详细的讲解，这更可怕。但我扯远了。
 >
