@@ -10,7 +10,7 @@
 
 **John Klossner**，常驻剑桥的漫画家，他的作品散布在美国东北部大部分地区。业余时间，John 喜欢乘坐公共交通工具。
 
-**Donald Norman**，苹果公司的苹果院士以及加州大学圣地亚哥分校的名誉教授。他著有 12 本以上的书籍，包括《The Design of Everyday Things》。
+**Donald Norman**，苹果公司的苹果院士以及加州大学圣地亚哥分校的名誉教授。他著有 12 本以上的书籍，包括《设计心理学 1》。
 
 **Dennis Ritchie**，AT\&T 贝尔实验室计算技术研究部门负责人。他和 Ken Thompson 被许多人视为 Unix 之父。出于公平考虑，我们请 Dennis 撰写了本书的反序言。
 
@@ -22,7 +22,7 @@
 
 **Christopher Maeda**，操作系统专家，希望在本书出版前获得卡内基梅隆大学的博士学位。Christopher 撰写了大部分关于编程的章节。
 
-**Rich Salz** 是开放软件基金会（Open Software Foundation）的一名首席软件工程师，负责分布式计算环境（Distributed Computing Environment）的工作。Rich 多年来一直活跃于 Usenet，在担任 comp.sources.unix 版主的多年任期内，他制定了至今仍在使用的 Usenet 源代码分发事实标准。他还负责 InterNetNews，这是 Usenet 上最活跃的 NNTP 实现之一。更重要的是，他曾两次当选大学报纸 The Tech 的总编辑，但两次都在任期内选择退学。Rich 撰写了无聊的网络一章。
+**Rich Salz** 是开放软件基金会（Open Software Foundation）的一名首席软件工程师，负责分布式计算环境的工作。Rich 多年来一直活跃于 Usenet，在担任 comp.sources.unix 版主的多年任期内，他制定了至今仍在使用的 Usenet 源代码分发事实标准。他还负责 InterNetNews，这是 Usenet 上最活跃的 NNTP 实现之一。更重要的是，他曾两次当选大学报纸 The Tech 的总编辑，但两次都在任期内选择退学。Rich 撰写了无聊的网络一章。
 
 在制作本书过程中，我们使用并经常采纳了以下人员的邮件内容：**Phil Agre**, **Greg Anderson**, **Judy Anderson**, **Rob Austein**, **Alan Bawden**, **Alan Borning**, **Phil Budne**, **David Chapman**, **Pavel Curtis**, **Mark Friedman**, **Jim Davis**, **John R. Dunning**, **Leonard N. Foner**, **Simson Garfinkel**, **Chris Garrigues**, **Ken Harrenstien**, **Ian D. Horswill**, **Bruce Howard**, **David H. Kaufman**, **Tom Knight**, **Robert Krajewski**, **James Lee Johnson**, **Jerry Leichter**, **Jim McDonald**, **Dave Mankins**, **Richard Mlynarik**, **Nick Papadakis**, **Michael A. Patton**, **Kent M. Pitman**, **Jonathan Rees**, **Stephen E. Robbins**, **M. Strata Rose**, **Robert E. Seastrom**, **Olin Shivers**, **Patrick Sobalvarro**, **Christopher Stacy**, **Stanley’s Tool Works**, **Steve Strassmann**, **Michael Tiemann**, **Michael Travers**, **David Vinayak Wallace**, **David Waitzman**, **Dan Weinreb**, **Daniel Weise**, **John Wroclawski**, **Gail Zacharias**, 和 **Jamie Zawinski**。
 
