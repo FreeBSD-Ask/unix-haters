@@ -5,7 +5,7 @@
 
 那些认为本书严重过时的人们，不妨看看[《开源与苦难哲学》](https://book.bsdasia.org/di-2-zhang-ku-nan-zhe-xue-yan-jiu/di-2.1-jie-linux-yu-ku-nan-zhe-xue)。书中至少 90% 的内容背后的精神至今仍然都是成立的。
 
-附录部分不属于正文
+附录部分不属于原书
 
 ---
 
