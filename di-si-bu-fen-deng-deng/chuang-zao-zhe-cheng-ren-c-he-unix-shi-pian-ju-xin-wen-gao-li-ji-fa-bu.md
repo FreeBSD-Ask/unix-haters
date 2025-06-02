@@ -3,7 +3,7 @@
 ![](../.gitbook/assets/pianju.png)
 
 
-在一项令整个计算机业震惊的声明中，Ken Thompson、Dennis Ritchie 和 Brian Kernighan 承认，他们所创造的 Unix 操作系统和 C 编程语言其实是一个精心设计的愚人节恶作剧，这个玩笑已经维持了二十多年。在最近举行的 UnixWorld 软件开发论坛上，Thompson 透露了以下内容：
+在一项令整个计算机业震惊的声明中，Ken Thompson、Dennis Ritchie 和 Brian Kernighan 坦白，他们所创造的 Unix 操作系统和 C 编程语言其实是一个精心设计的愚人节恶作剧，这个玩笑已经维持了二十多年。在最近举行的 UnixWorld 软件开发论坛上，Thompson 透露了以下内容：
 
 
 >“1969 年，AT&T 刚刚终止了他们与 GE/AT&T Multics 项目的合作。Brian 和我刚开始使用来自瑞士 ETH 实验室 Nichlaus Wirth 教授发布的早期 Pascal 版本，我们对其优雅的简洁性和强大功能印象深刻。Dennis 刚读完《Bored of the Rings》，这是一本对托尔金《魔戒》三部曲的搞笑 National Lampoon 模仿作品。作为一时兴起，我们决定制作 Multics 环境和 Pascal 的模仿作品。Dennis 和我负责操作环境。我们研究了 Multics，设计了一个尽可能复杂和晦涩的新系统，以最大限度地增加普通用户的挫败感，称其为 Unix，既是对 Multics 的戏仿，也包含其他更大胆的暗示。”
