@@ -1,4 +1,4 @@
-# “更坏即是更好”的崛起（作者：Richard P. Gabrie）
+# “宁拙勿巧”的崛起（作者：Richard P. Gabrie）
 
 ![](../.gitbook/assets/rise.png)
 
