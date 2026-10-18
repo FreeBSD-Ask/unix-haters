@@ -22,7 +22,7 @@
 > 邮件队列（1 个请求）
 > --QID-- --Size-- -----Q-Time----- --------Sender/Recipient--------
 > AA12729 166 Thu Mar 26 15:43 borning
-> （Deferred: Not a typewriter）
+> (Deferred: Not a typewriter)
 > bnfb@csr.uvic.ca
 > ```
 >
@@ -521,14 +521,14 @@ sendmail 不仅别名数据库的文件格式糟糕透顶，而且许多常用�
 > 你在上次的帖子中本想攻击我，但当你说
 >
 >```sh
->> >> %> $> Received: from magilla.uucp by gorilla.uucp
->> >> %> $> via uunet with sendmail
->> >> %> $> …
+> >> %> $> Received: from magilla.uucp by gorilla.uucp
+> >> %> $> via uunet with sendmail
+> >> %> $> …
 >```
 >
-> 时，你显然不知道你在说什么，所以发帖时要三思，
+> 时，你显然不知道自己在说什么。所以当你 >From 你的家用机器上发帖时，说话要三思，
 >
-> 来自你的主机，当你发那条消息时，它被送到所有不想看你攻击的人那里，所以别这么做 ):-(
+> 因为当你发出那条消息时，它被送到了所有不想看你骂战的人那里，所以别这么干 ):-(
 
 那么！为什么第二段开头那行的“From”前面会有一个尖括号呢？你可能会以为这和 Usenet 上 Unix 迷们相互交流时用的秘密代码有关，表示他们其实是在引用某个无休止的公共对话中前面第十五条消息，但事实并非如此。那个尖括号是邮件程序加上的。邮件阅读程序通过查找以“From”开头的行来解析邮件文件，所以邮件程序必须对以“From”开头的文本行进行变换，以免让邮件阅读器混淆。你可以自己验证这一点，给自己发一封邮件，邮件正文里包含一行以“From”开头的文本。
 
