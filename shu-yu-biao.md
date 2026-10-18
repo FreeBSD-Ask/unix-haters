@@ -4,10 +4,10 @@
 
 ## 总则
 
-- 人名：书中作者、黑客、技术人物**保留英文**，不音译（如 Ken Thompson、Dennis Ritchie、Richard P. Gabriel）；大众文化名人按通用中文译名（如伍迪·艾伦、迈克尔·乔丹）。
-- 命令、程序、协议、文件格式：一律保留英文（如 csh、find、sendmail、TCP/IP）。
-- 公司与机构：正文叙述用中文通名（惠普、微软、苹果、贝尔实验室、麻省理工学院）；无通行译名或并列厂商清单中保留英文原文（DEC、IBM、Apollo、Symbolics、Data General、SCO、AT&T）。
-- `Unix`、`UNIX` 等大小写写法保持原文，禁止机械统一。
+* 人名：书中作者、黑客、技术人物**保留英文**，不音译（如 Ken Thompson、Dennis Ritchie、Richard P. Gabriel）；大众文化名人按通用中文译名（如伍迪·艾伦、迈克尔·乔丹）。
+* 命令、程序、协议、文件格式：一律保留英文（如 csh、find、sendmail、TCP/IP）。
+* 公司与机构：正文叙述用中文通名（惠普、微软、苹果、贝尔实验室、麻省理工学院）；无通行译名或并列厂商清单中保留英文原文（DEC、IBM、Apollo、Symbolics、Data General、SCO、AT&T）。
+* `Unix`、`UNIX` 等大小写写法保持原文，禁止机械统一。
 
 ## 书名与核心概念
 

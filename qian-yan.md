@@ -1,6 +1,6 @@
 # 前言
 
-- 作者：Donald A. Norman
+* 作者：Donald A. Norman
 
 ![](.gitbook/assets/qianyan.png)
 
