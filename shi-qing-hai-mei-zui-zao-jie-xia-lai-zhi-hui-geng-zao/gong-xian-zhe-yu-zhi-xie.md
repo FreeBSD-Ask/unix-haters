@@ -16,13 +16,13 @@
 
 **Scott Burson**，Zeta C 的作者，这是 Lisp 机器上的第一款 C 编译器。如今，他作为硅谷的顾问从事 C++ 编程。Scott 撰写了大部分关于 C++ 的章节。
 
-**Don Hopkins**，资深用户界面设计师和图形程序员。Don 在马里兰大学获得计算机科学学士学位，同时在人体计算机交互实验室任职研究员。曾在 UniPress Software、Sun Microsystems、Turing Institute 和卡内基梅隆大学工作。Don 曾将 SimCity 移植到 NeWS 和 DUX Software 的 X11 上。他目前在 Kaleida 工作。Don 撰写了关于 X-Windows 灾难的章节（为了惹恼 X 狂热粉，Don 特别要求章节标题中“X”后保留连字符，且“Window”使用复数形式。）
+**Don Hopkins**，资深用户界面设计师和图形程序员。Don 在马里兰大学获得计算机科学学士学位，同时在人机交互实验室任职研究员。曾在 UniPress Software、Sun Microsystems、Turing Institute 和卡内基梅隆大学工作。Don 曾将 SimCity 移植到 NeWS 和 DUX Software 的 X11 上。他目前在 Kaleida 工作。Don 撰写了关于 X-Windows 灾难的章节（为了惹恼 X 狂热粉，Don 特别要求章节标题中“X”后保留连字符，且“Window”使用复数形式。）
 
 **Mark Lottor**，自 1984 年首次参加 Usenix 会议起就积极痛恨 Unix。Mark 曾在 TOPS-20 系统做了八年系统程序员，之后又做了几年 Unix 系统管理员。因对 Unix 感到沮丧，他现在用汇编语言编写微控制器程序，不必担心受操作系统、shell、编译器或窗口系统干扰工作。Mark 撰写了系统管理的章节。
 
 **Christopher Maeda**，操作系统专家，希望在本书出版前获得卡内基梅隆大学的博士学位。Christopher 撰写了大部分关于编程的章节。
 
-**Rich Salz** 是开放软件基金会（Open Software Foundation）的一名首席软件工程师，负责分布式计算环境的工作。Rich 多年来一直活跃于 Usenet，在担任 comp.sources.unix 版主的多年任期内，他制定了至今仍在使用的 Usenet 源代码分发事实标准。他还负责 InterNetNews，这是 Usenet 上最活跃的 NNTP 实现之一。更重要的是，他曾两次当选大学报纸 The Tech 的总编辑，但两次都在任期内选择退学。Rich 撰写了无聊的网络一章。
+**Rich Salz** 是开放软件基金会（Open Software Foundation）的一名首席软件工程师，负责分布式计算环境的工作。Rich 多年来一直活跃于 Usenet，在担任 comp.sources.unix 版主的多年任期内，他制定了至今仍在使用的 Usenet 源代码分发事实标准。他还负责 InterNetNews，这是 Usenet 上最凶猛的 NNTP 实现之一。更重要的是，他曾两次当选大学报纸 The Tech 的总编辑，但两次都在任期内选择退学。Rich 撰写了无聊的网络一章。
 
 在制作本书过程中，我们使用并经常采纳了以下人员的邮件内容：**Phil Agre**, **Greg Anderson**, **Judy Anderson**, **Rob Austein**, **Alan Bawden**, **Alan Borning**, **Phil Budne**, **David Chapman**, **Pavel Curtis**, **Mark Friedman**, **Jim Davis**, **John R. Dunning**, **Leonard N. Foner**, **Simson Garfinkel**, **Chris Garrigues**, **Ken Harrenstien**, **Ian D. Horswill**, **Bruce Howard**, **David H. Kaufman**, **Tom Knight**, **Robert Krajewski**, **James Lee Johnson**, **Jerry Leichter**, **Jim McDonald**, **Dave Mankins**, **Richard Mlynarik**, **Nick Papadakis**, **Michael A. Patton**, **Kent M. Pitman**, **Jonathan Rees**, **Stephen E. Robbins**, **M. Strata Rose**, **Robert E. Seastrom**, **Olin Shivers**, **Patrick Sobalvarro**, **Christopher Stacy**, **Stanley’s Tool Works**, **Steve Strassmann**, **Michael Tiemann**, **Michael Travers**, **David Vinayak Wallace**, **David Waitzman**, **Dan Weinreb**, **Daniel Weise**, **John Wroclawski**, **Gail Zacharias**, 和 **Jamie Zawinski**。
 
