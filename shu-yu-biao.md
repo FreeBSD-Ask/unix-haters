@@ -89,4 +89,7 @@
 | flame | 论战、骂战 | 语境义 |
 | lossage | 损失 | 黑客俚语，语境义 |
 | fix（毒品隐喻） | 过瘾、解瘾 | 区别于"修复" |
+| weenie | 弱鸡 | 对 Unix 迷的贬称（Unix weenies → Unix 弱鸡们） |
+| guru | 导师 | Unix guru（语境：资深 Unix 专家） |
+| idiot light | 警示灯 | 汽车仪表盘指示灯 |
 | workstation | 工作站 | |
