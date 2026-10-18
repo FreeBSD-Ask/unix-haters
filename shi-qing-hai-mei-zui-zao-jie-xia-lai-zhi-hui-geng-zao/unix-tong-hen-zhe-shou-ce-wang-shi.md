@@ -1,4 +1,4 @@
-# Unix 痛恨者手册往事
+# UNIX 痛恨者手册往事
 
 
 ![](../.gitbook/assets/history.png)

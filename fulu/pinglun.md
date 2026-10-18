@@ -1,4 +1,4 @@
-# 评论《Unix 痛恨者手册》（Andrew Kuchling 于 1997）
+# 评论《UNIX 痛恨者手册》（Andrew Kuchling 于 1997）
 
 《Unix 痛恨者手册》（1994）
 

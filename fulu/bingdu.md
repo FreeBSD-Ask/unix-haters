@@ -1,4 +1,4 @@
-# Unix 的流行病学（Philip E. Agre 于 1994）
+# UNIX 的流行病学（Philip E. Agre 于 1994）
 
 根据《Unix 痛恨者手册》（由加州圣马特奥的 IDG Books 出版，Simson Garfinkel、Daniel Weise 和 Steven Strassman 编辑，这是一部既有趣又严肃的新书）：
 

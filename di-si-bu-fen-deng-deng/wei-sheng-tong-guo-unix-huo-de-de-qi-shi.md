@@ -1,4 +1,4 @@
-# 尾声：通过 Unix 获得的启示
+# 尾声：通过 UNIX 获得的启示
 
 ![](../.gitbook/assets/qishi2.png)
 

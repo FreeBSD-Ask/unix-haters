@@ -1,4 +1,4 @@
-# 作者坦言 C 和 Unix 是骗局。新闻稿：立即发布
+# 作者坦言 C 和 UNIX 是骗局。新闻稿：立即发布
 
 ![](../.gitbook/assets/pianju.png)
 
