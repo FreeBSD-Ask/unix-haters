@@ -11,24 +11,24 @@ jobs:
     
     steps:
         - name: Checkout from repository
-          uses: actions/checkout@v4
+          uses: actions/checkout@v7
         
         - name: Setup Node.js
-          uses: actions/setup-node@v4
+          uses: actions/setup-node@v7
           with:
-            node-version: '20'
+            node-version: '24'
           
         - name: Install nodejs dependencies
           run: yarn add autocorrect-node
         
         - name: Run autocorrect lint
-          run: yarn autocorrect --config .autocorrectrc --lint --no-diff-bg-color **/*.md  || true 
+          run: yarn autocorrect --config .github/.autocorrectrc --lint --no-diff-bg-color **/*.md  || true 
           
         - name: Run autocorrect fix
-          run: yarn autocorrect --fix **/*.md
+          run: yarn autocorrect --config .github/.autocorrectrc --fix **/*.md
 
         - name: Markdown add spaces
-          uses: peter-evans/create-pull-request@v7
+          uses: peter-evans/create-pull-request@v8
           with:
              commit-message: "Markdown add spaces"
              labels: "Markdown"
