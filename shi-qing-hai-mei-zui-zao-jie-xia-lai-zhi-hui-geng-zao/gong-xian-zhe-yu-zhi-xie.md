@@ -32,6 +32,6 @@ Unix Barf Bag 的灵感来自 **Kurt Schmucker**，一位世界级的 C++ 反感
 
 许多人阅读并评论了本稿的多个版本。我们特别感谢 **Judy Anderson**, **Phil Agre**, **Regina C. Brown**, **Michael Cohen**, **Michael Ernst**, **Dave Hitz**, **Don Hopkins**, **Reuven Lerner**, **Dave Mankins**, **Eric Raymond**, **Paul Rubin**, **M. Strata Rose**, **Cliff Stoll**, **Len Tower Jr.**, **Michael Travers**, **David Waitzman**, 和 **Andy Watson**。非常感谢你们提出的许多修改建议以及帮助我们纠正错别字。
 
-我们特别感谢 **Matthew Wagner** 来自 Waterside Productions。Matt 在 1992 年五月便立刻对本书产生兴趣。一年多后，当 Simson 接手本项目时，他仍然持续关注。Matt 帮助我们联系了 IDG Programmers Press 的 **Christopher Williams**。Chris 毫不犹豫地签下了本书，并将项目转交给 **Trudy Neuhaus**，她一直负责直到项目完成。**Amy Pedersen** 是我们的出版经理。
+我们特别感谢 **Matthew Wagner** 来自 Waterside Productions。Matt 在 1992 年五月便立刻对本书产生兴趣。一年多后，当 Simson 从 Daniel 手中接手本项目时，他仍然持续关注。Matt 帮助我们联系了 IDG Programmers Press 的 **Christopher Williams**。Chris 毫不犹豫地签下了本书，并将项目转交给 **Trudy Neuhaus**，她一直负责直到项目完成。**Amy Pedersen** 是我们的出版经理。
 
 Unix 痛恨者手册封面由 The Stock Illustration Source 的 **Ken Copfelt** 绘制。
