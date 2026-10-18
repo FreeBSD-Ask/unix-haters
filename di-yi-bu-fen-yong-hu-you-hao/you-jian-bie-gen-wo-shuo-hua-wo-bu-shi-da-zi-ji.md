@@ -216,7 +216,7 @@ Sendmail 在每一步骤都搞砸了
 >
 > 显示收件人： \<Juan ECHAGUE e-mail:jve\@lifia.imag.fr tel:76 57 46 68 (33)>
 >
-> 显示收件人： \<PS:I'll summarize if interest,etc.\@Neon.Stanford.EDU>
+> 显示收件人： \<PS:I’ll summarize if interest,etc.\@Neon.Stanford.EDU>
 >
 > 显示收件人： [Juan@Neon.Stanford.EDU](mailto:Juan@Neon.Stanford.EDU)
 >
@@ -224,7 +224,7 @@ Sendmail 在每一步骤都搞砸了
 >
 > 显示收件人： \<for temporal logics.Comments and references are welcomed.\@Neon.Stanford.EDU>
 >
-> 显示收件人： \<I'm interested in gentzen and natural deduction style axiomatizations\@Neon.Stanford.EDU>
+> 显示收件人： \<I’m interested in gentzen and natural deduction style axiomatizations\@Neon.Stanford.EDU>
 
 
 ### 第二步：解析地址
