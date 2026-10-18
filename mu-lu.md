@@ -1,16 +1,17 @@
-# Table of contents
+# 目录
 
-* [Unix 痛恨者手册中文版](README.md)
+* [UNIX 痛恨者手册](README.md)
+* [目录](mu-lu.md)
 * [前言](qian-yan.md)
 * [序言](xu-yan.md)
 
 ## 事情还没到最糟，接下来只会更糟
 
 * [我们是谁](shi-qing-hai-mei-zui-zao-jie-xia-lai-zhi-hui-geng-zao/wo-men-shi-shui.md)
-* [Unix 痛恨者手册往事](shi-qing-hai-mei-zui-zao-jie-xia-lai-zhi-hui-geng-zao/unix-tong-hen-zhe-shou-ce-wang-shi.md)
+* [UNIX 痛恨者手册往事](shi-qing-hai-mei-zui-zao-jie-xia-lai-zhi-hui-geng-zao/unix-tong-hen-zhe-shou-ce-wang-shi.md)
 * [贡献者与致谢](shi-qing-hai-mei-zui-zao-jie-xia-lai-zhi-hui-geng-zao/gong-xian-zhe-yu-zhi-xie.md)
 * [排版惯例](shi-qing-hai-mei-zui-zao-jie-xia-lai-zhi-hui-geng-zao/pai-ban-guan-li.md)
-* [Unix 痛恨者手册免责声明](shi-qing-hai-mei-zui-zao-jie-xia-lai-zhi-hui-geng-zao/unix-tong-hen-zhe-shou-ce-mian-ze-sheng-ming.md)
+* [UNIX 痛恨者手册免责声明](shi-qing-hai-mei-zui-zao-jie-xia-lai-zhi-hui-geng-zao/unix-tong-hen-zhe-shou-ce-mian-ze-sheng-ming.md)
 
 ***
 
@@ -19,7 +20,7 @@
 
 ## 第一部分：用户友好？
 
-* [Unix：世界上第一款计算机病毒](di-yi-bu-fen-yong-hu-you-hao/unix-shi-jie-shang-di-yi-kuan-ji-suan-ji-bing-du.md)
+* [UNIX：世界上第一款计算机病毒](di-yi-bu-fen-yong-hu-you-hao/unix-shi-jie-shang-di-yi-kuan-ji-suan-ji-bing-du.md)
 * [欢迎，新用户！就像装满六发子弹的俄罗斯轮盘赌](di-yi-bu-fen-yong-hu-you-hao/huan-ying-xin-yong-hu-jiu-xiang-zhuang-man-liu-fa-zi-dan-deeluo-si-lun-pan-du.md)
 * [文档？什么文档？](di-yi-bu-fen-yong-hu-you-hao/wen-dang-shen-me-wen-dang.md)
 * [邮件：别跟我说话，我不是打字机](di-yi-bu-fen-yong-hu-you-hao/you-jian-bie-gen-wo-shuo-hua-wo-bu-shi-da-zi-ji.md)
@@ -35,23 +36,23 @@
 
 ## 第三部分：系统管理员的噩梦
 
-* [系统管理：Unix 的隐性成本](di-san-bu-fen-xi-tong-guan-li-yuan-deemeng/xi-tong-guan-li-unix-de-yin-xing-cheng-ben.md)
+* [系统管理：UNIX 的隐性成本](di-san-bu-fen-xi-tong-guan-li-yuan-deemeng/xi-tong-guan-li-unix-de-yin-xing-cheng-ben.md)
 * [安全：哦，抱歉，先生，请继续，我没意识到您是 root 用户](di-san-bu-fen-xi-tong-guan-li-yuan-deemeng/an-quan-o-bao-qian-xian-sheng-qing-ji-xu-wo-mei-yi-shi-dao-nin-shi-root-yong-hu.md)
 * [文件系统：它确实会损坏你的文件，但你看看它有多快！](di-san-bu-fen-xi-tong-guan-li-yuan-deemeng/wen-jian-xi-tong-ta-que-shi-hui-sun-huai-ni-de-wen-jian-dan-ni-kan-kan-ta-you-duo-kuai.md)
 * [NFS：噩梦文件系统（Nightmare File System）](di-san-bu-fen-xi-tong-guan-li-yuan-deemeng/nfsemeng-wen-jian-xi-tong-nightmare-file-system.md)
 
 ## 第四部分：等等
 
-* [尾声：通过 Unix 获得的启示](di-si-bu-fen-deng-deng/wei-sheng-tong-guo-unix-huo-de-de-qi-shi.md)
-* [作者坦言 C 和 Unix 是骗局。新闻稿：立即发布](di-si-bu-fen-deng-deng/chuang-zao-zhe-cheng-ren-c-he-unix-shi-pian-ju-xin-wen-gao-li-ji-fa-bu.md)
+* [尾声：通过 UNIX 获得的启示](di-si-bu-fen-deng-deng/wei-sheng-tong-guo-unix-huo-de-de-qi-shi.md)
+* [作者坦言 C 和 UNIX 是骗局。新闻稿：立即发布](di-si-bu-fen-deng-deng/chuang-zao-zhe-cheng-ren-c-he-unix-shi-pian-ju-xin-wen-gao-li-ji-fa-bu.md)
 * [“宁拙勿巧”的崛起（作者：Richard P. Gabriel）](di-si-bu-fen-deng-deng/geng-huai-ji-shi-geng-hao-de-jue-qi-zuo-zhe-richard-p.-gabrie.md)
 * [参考文献：正当你以为已经脱离困境时](di-si-bu-fen-deng-deng/can-kao-wen-xian-zheng-dang-ni-yi-wei-yi-jing-tuo-li-kun-jing-shi.md)
 
 ## 附录
 
-* [Unix 的流行病学（Philip E. Agre 于 1994）](fulu/bingdu.md)
-* [评论《Unix 痛恨者手册》（Andrew Kuchling 于 1997）](fulu/pinglun.md)
-* [重新审视《Unix 痛恨者手册》（Raymond, Eric S 于 2008）](fulu/Reconsidered.md)
+* [UNIX 的流行病学（Philip E. Agre 于 1994）](fulu/bingdu.md)
+* [评论《UNIX 痛恨者手册》（Andrew Kuchling 于 1997）](fulu/pinglun.md)
+* [重新审视《UNIX 痛恨者手册》（Raymond, Eric S 于 2008）](fulu/Reconsidered.md)
 
 ## 术语表
 

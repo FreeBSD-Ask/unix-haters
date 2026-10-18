@@ -1,6 +1,6 @@
-# UNIX 痛恨者手册中文版
+# UNIX 痛恨者手册
 
-本项目是《UNIX 痛恨者手册中文版》（*The UNIX Hater's Handbook*）的简体中文翻译，由 FreeBSD 中文社区译制。
+本项目是《UNIX 痛恨者手册》（*The UNIX Hater's Handbook*）的简体中文翻译，由 FreeBSD 中文社区译制。
 
 ---
 

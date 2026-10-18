@@ -1,6 +1,7 @@
 # Table of contents
 
-* [UNIX 痛恨者手册中文版](README.md)
+* [UNIX 痛恨者手册](README.md)
+* [目录](mu-lu.md)
 * [前言](qian-yan.md)
 * [序言](xu-yan.md)
 
