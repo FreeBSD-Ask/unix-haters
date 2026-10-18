@@ -202,15 +202,15 @@ Unix 常见的问题之一就是追求完美：它自身毫无完美可言，却
 
 词典里 panic 的定义是“突然的强烈恐慌；尤其是伴随着集体逃跑的无理性恐惧。”这非常贴切地描述了 Unix 的 panic：计算机会在系统控制台上打印“panic”字样并停止运行，同时破坏你的文件系统。我们在图 4 中列出了一些较为有信息量（？）的 panic 示例。
 
-| 信息                  | 意义                |
-| ------------------------------------------ | ------------------------------ |
-| `panic: fsfull`                                | 文件系统已满（写入失败），但 Unix 不知道原因。                   |
-| `panic: fssleep`                               | 无明显原因调用了 `fssleep()`。                          |
-| `panic: alloccgblk: cyl groups corrupted`      | Unix 无法根据块号确定请求的磁盘柱面。                        |
-| `panic: DIRBLKSIZ > fsize`                     | 目录文件小于最小目录大小，或类似情况。                          |
-|`dev = 0xXX, block = NN, fs = ufs`             |                                              |
-| `panic: free_block: freeing free block`       | Unix 试图释放一个已在空闲列表中的块。（这情况出现频率令你惊讶，或者你也不会惊讶。） |
-| `panic: direnter: target directory link count` | Unix 意外地将目录的链接计数降为零或负数。                      |
+| 信息 | 意义 |
+| --- | --- |
+| `panic: fsfull` | 文件系统已满（写入失败），但 Unix 不知道原因。 |
+| `panic: fssleep` | 无明显原因调用了 `fssleep()`。 |
+| `panic: alloccgblk: cyl groups corrupted` | Unix 无法根据块号确定请求的磁盘柱面。 |
+| `panic: DIRBLKSIZ > fsize` | 目录文件小于最小目录大小，或类似情况。 |
+| `dev = 0xXX, block = NN, fs = ufs` | |
+| `panic: free_block: freeing free block` | Unix 试图释放一个已在空闲列表中的块。（这情况出现频率令你惊讶，或者你也不会惊讶。） |
+| `panic: direnter: target directory link count` | Unix 意外地将目录的链接计数降为零或负数。 |
 
 **图 4．Unix 文件系统报错信息**
 
