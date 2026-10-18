@@ -52,3 +52,7 @@
 * [Unix 的流行病学（Philip E. Agre 于 1994）](fulu/bingdu.md)
 * [评论《Unix 痛恨者手册》（Andrew Kuchling 于 1997）](fulu/pinglun.md)
 * [重新审视《Unix 痛恨者手册》（Raymond, Eric S 于 2008）](fulu/Reconsidered.md)
+
+## 术语表
+
+* [术语表](shu-yu-biao.md)
