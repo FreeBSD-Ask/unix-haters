@@ -222,3 +222,7 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,node,yarn,vue,vuejs
 ugh.pdf
+
+# 本地生成的分章英文参考文本（由 script/extract_ugh_pdf.py 生成，不要提交）
+/en/
+/script

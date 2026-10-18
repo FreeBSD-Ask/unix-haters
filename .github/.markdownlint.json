@@ -1,8 +1,7 @@
 {
 	"MD001": true,
 	"MD003": true,
-	"MD004": true,
-	{
+	"MD004": {
 		"style": "asterisk"
 	},
 	"MD005": true,
@@ -20,7 +19,7 @@
 	"MD022": true,
 	"MD023": true,
 	"MD024": {
-		"siblings_only": "true"
+		"siblings_only": true
 	},
 	"MD025": true,
 	"MD026": true,
@@ -57,5 +56,5 @@
 	"MD053": false,
 	"MD054": false,
 	"MD055": true,
-	"MD056": true,
+	"MD056": true
 }
