@@ -1,4 +1,4 @@
-# Table of contents
+# 目录
 
 * [UNIX 痛恨者手册](README.md)
 * [目录](mu-lu.md)
