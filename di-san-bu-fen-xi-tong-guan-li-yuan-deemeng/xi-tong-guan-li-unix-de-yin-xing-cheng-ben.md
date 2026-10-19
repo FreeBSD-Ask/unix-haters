@@ -1,4 +1,4 @@
-# 系统管理：Unix 的隐性成本
+# 系统管理：UNIX 的隐性成本
 
 ![](../.gitbook/assets/part3.png)
 
