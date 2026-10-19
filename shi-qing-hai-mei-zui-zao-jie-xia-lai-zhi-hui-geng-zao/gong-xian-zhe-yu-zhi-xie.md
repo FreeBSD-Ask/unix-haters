@@ -14,7 +14,7 @@
 
 **Dennis Ritchie**，AT\&T 贝尔实验室计算技术研究部门负责人。他和 Ken Thompson 被许多人视为 Unix 之父。出于公平考虑，我们请 Dennis 撰写了本书的反序言。
 
-**Scott Burson**，Zeta C 的作者，这是 Lisp 机器上的第一款 C 编译器。如今，他作为硅谷的顾问从事 C++ 编程。Scott 撰写了大部分关于 C++ 的章节。
+**Scott Burson**，Zeta C 的作者，这是 Lisp 机上的第一款 C 编译器。如今，他作为硅谷的顾问从事 C++ 编程。Scott 撰写了大部分关于 C++ 的章节。
 
 **Don Hopkins**，资深用户界面设计师和图形程序员。Don 在马里兰大学获得计算机科学学士学位，同时在人机交互实验室任职研究员。曾在 UniPress Software、Sun Microsystems、Turing Institute 和卡内基梅隆大学工作。Don 曾将 SimCity 移植到 NeWS 和 DUX Software 的 X11 上。他目前在 Kaleida 工作。Don 撰写了关于 X-Windows 灾难的章节（为了惹恼 X 狂热粉，Don 特别要求章节标题中“X”后保留连字符，且“Window”使用复数形式。）
 
