@@ -1,0 +1,19 @@
+name: 检查加粗空格
+on:
+  pull_request:
+    paths:
+      - "**/*.md"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: 检查加粗标记两侧空格
+        run: python .github/scripts/check_bold_spacing.py
